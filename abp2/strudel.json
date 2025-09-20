@@ -1,0 +1,87 @@
+{
+  "_base": "https://strudel-samples.b-cdn.net/Afro%20Beats%20Percussion%20vol.2/ABP2_audio/",
+  "abp2_bata_mundi_fx": [
+    "Oneshots/Bata_Mundi_FX/RARE_ABP2_BataMundi_FX_oneshot_hard.wav",
+    "Oneshots/Bata_Mundi_FX/RARE_ABP2_BataMundi_FX_oneshot_punch.wav",
+    "Oneshots/Bata_Mundi_FX/RARE_ABP2_BataMundi_FX_oneshot_smack.wav"
+  ],
+  "abp2_bells": [
+    "Oneshots/Bells/RARE_ABP2_Bell_oneshot_piece.wav",
+    "Oneshots/Bells/RARE_ABP2_Bell_oneshot_puzzlepiece.wav",
+    "Oneshots/Bells/RARE_ABP2_Bell_oneshot_slap.wav",
+    "Oneshots/Bells/RARE_ABP2_Bell_oneshot_thought.wav"
+  ],
+  "abp2_shaker": [
+    "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_auditory.wav",
+    "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_blare.wav",
+    "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_blast.wav",
+    "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_instrument.wav",
+    "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_recorded.wav",
+    "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_resonate.wav",
+    "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_theme.wav"
+  ],
+  "abp2_cymbals": [
+    "Oneshots/Cymbals/RARE_ABP2_Cymbal_oneshot_fire.wav",
+    "Oneshots/Cymbals/RARE_ABP2_Cymbal_oneshot_line.wav",
+    "Oneshots/Cymbals/RARE_ABP2_Cymbal_oneshot_theme.wav"
+  ],
+  "abp2_bongo": [
+    "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_acoustic.wav",
+    "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_color.wav",
+    "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_cool.wav",
+    "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_flow.wav",
+    "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_groove.wav",
+    "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_mood.wav",
+    "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_rhythm.wav",
+    "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_slaps.wav"
+  ],
+  "abp2_conga": [
+    "Oneshots/Conga/RARE_ABP2_Conga_oneshot_idea.wav",
+    "Oneshots/Conga/RARE_ABP2_Conga_oneshot_note.wav",
+    "Oneshots/Conga/RARE_ABP2_Conga_oneshot_soul.wav",
+    "Oneshots/Conga/RARE_ABP2_Conga_oneshot_sound.wav",
+    "Oneshots/Conga/RARE_ABP2_Conga_oneshot_spirit.wav",
+    "Oneshots/Conga/RARE_ABP2_Conga_oneshot_tone.wav",
+    "Oneshots/Conga/RARE_ABP2_Conga_oneshot_vibration.wav"
+  ],
+  "abp2_doorkeys": [
+    "Oneshots/Doorkeys/RARE_ABP2_Doorkeys_oneshot_concept_.wav"
+  ],
+  "abp2_rim_shots": [
+    "Oneshots/Rim_shots/RARE_ABP2_Rimshot_oneshot_cracks.wav",
+    "Oneshots/Rim_shots/RARE_ABP2_Rimshot_oneshot_flow.wav",
+    "Oneshots/Rim_shots/RARE_ABP2_Rimshot_oneshot_grow.wav",
+    "Oneshots/Rim_shots/RARE_ABP2_Rimshot_oneshot_product.wav",
+    "Oneshots/Rim_shots/RARE_ABP2_Rimshot_oneshot_work.wav"
+  ],
+  "abp2_snare": [
+    "Oneshots/Snare/RARE_ABP2_Snare_oneshot_bomb_.wav",
+    "Oneshots/Snare/RARE_ABP2_Snare_oneshot_bounce.wav",
+    "Oneshots/Snare/RARE_ABP2_Snare_oneshot_lab.wav"
+  ],
+  "abp2_snaps": [
+    "Oneshots/Snaps/RARE_ABP2_Snaps_oneshot_fly.wav"
+  ],
+  "abp2_agogo": [
+    "Oneshots/Agogo/RARE_ABP2_Agogo_bell_oneshot_live.wav",
+    "Oneshots/Agogo/RARE_ABP2_Agogo_bell_oneshot_sonic.wav"
+  ],
+  "abp2_moroccan_bongo": [
+    "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_bap.wav",
+    "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_bet.wav",
+    "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_boom.wav",
+    "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_effect.wav",
+    "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_energy.wav",
+    "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_killin.wav"
+  ],
+  "abp2_tama": [
+    "Oneshots/Tama/RARE_ABP2_Tama_talkingdrum_oneshot_clang.wav",
+    "Oneshots/Tama/RARE_ABP2_Tama_talkingdrum_oneshot_design.wav",
+    "Oneshots/Tama/RARE_ABP2_Tama_talkingdrum_oneshot_play.wav",
+    "Oneshots/Tama/RARE_ABP2_Tama_talkingdrum_oneshot_prospect.wav"
+  ],
+  "abp2_seeds": [
+    "Oneshots/Seeds/RARE_ABP2_Seeds_oneshot_audio.wav",
+    "Oneshots/Seeds/RARE_ABP2_Seeds_oneshot_hitter.wav",
+    "Oneshots/Seeds/RARE_ABP2_Seeds_oneshot_pro.wav",
+    "Oneshots/Seeds/RARE_ABP2_Seeds_oneshot_slapper.wav",
