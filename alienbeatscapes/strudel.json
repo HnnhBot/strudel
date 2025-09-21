@@ -18,19 +18,27 @@
   "alienbeatscape_Cymbals": [
     "One Shots/Cymbals/LightSplash_SP_01.wav"
   ],
-  "alienbeatscape_Live_Instruments": [
-    "One Shots/Live Instruments/C#_BlipRipple_SP_01.wav",
-    "One Shots/Live Instruments/C_GlitchTip_SP_01.wav",
-    "One Shots/Live Instruments/C_PianoTremble_SP_01.wav",
-    "One Shots/Live Instruments/D_BassBit_SP_01.wav",
-    "One Shots/Live Instruments/D_FluteToot_SP_01.wav",
-    "One Shots/Live Instruments/D_SaxPap_SP_01.wav",
-    "One Shots/Live Instruments/Eb_FluteTone_SP_01.wav",
-    "One Shots/Live Instruments/Eb_PianoTap_SP_01.wav",
-    "One Shots/Live Instruments/F_GuitarBlip_SP_01.wav",
-    "One Shots/Live Instruments/FluteToot_SP_01.wav",
-    "One Shots/Live Instruments/GlitchSnitch_SP_01.wav"
-  ],
+ "alienbeatscape_Live_Instruments": {
+    "c4":  [
+      "One Shots/Live Instruments/C_GlitchTip_SP_01.wav",
+      "One Shots/Live Instruments/C_PianoTremble_SP_01.wav"
+    ],
+    "c#4": [
+      "One Shots/Live Instruments/C#_BlipRipple_SP_01.wav"
+    ],
+    "d4":  [
+      "One Shots/Live Instruments/D_BassBit_SP_01.wav",
+      "One Shots/Live Instruments/D_FluteToot_SP_01.wav",
+      "One Shots/Live Instruments/D_SaxPap_SP_01.wav"
+    ],
+    "eb4": [
+      "One Shots/Live Instruments/Eb_FluteTone_SP_01.wav",
+      "One Shots/Live Instruments/Eb_PianoTap_SP_01.wav"
+    ],
+    "f4":  [
+      "One Shots/Live Instruments/F_GuitarBlip_SP_01.wav"
+    ]
+  },
   "alienbeatscape_Hi-Hats": [
     "One Shots/Hi-Hats/ChipHiHat_SP_01.wav",
     "One Shots/Hi-Hats/ChipHiHat_SP_02.wav",

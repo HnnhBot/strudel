@@ -239,57 +239,73 @@
     "LOOPS/Thiol/100/RARE_AP_100_Drum_Thiol_loop_vibe.wav",
     "LOOPS/Thiol/100/RARE_AP_100_Drum_Thiol_loop_vibration.wav"
   ],
-  "abp1_90": [
+  "abp1_90_congas": [
     "LOOPS/Conga/90/RARE_AP_90_Congas_loop_attack.wav",
     "LOOPS/Conga/90/RARE_AP_90_Congas_loop_bag.wav",
     "LOOPS/Conga/90/RARE_AP_90_Congas_loop_bump.wav",
     "LOOPS/Conga/90/RARE_AP_90_Congas_loop_flay.wav",
     "LOOPS/Conga/90/RARE_AP_90_Congas_loop_shocker.wav",
     "LOOPS/Conga/90/RARE_AP_90_Congas_loop_slam.wav",
-    "LOOPS/Conga/90/RARE_AP_90_Congas_loop_slams.wav",
+    "LOOPS/Conga/90/RARE_AP_90_Congas_loop_slams.wav"
+  ],
+  "abp1_90_kalimba": [
     "LOOPS/Kalimba/90_Amin/RARE_AP_90_Kalimba_loop_Amin_brush.wav",
     "LOOPS/Kalimba/90_Amin/RARE_AP_90_Kalimba_loop_Amin_dap.wav",
     "LOOPS/Kalimba/90_Amin/RARE_AP_90_Kalimba_loop_Amin_energetic.wav",
     "LOOPS/Kalimba/90_Amin/RARE_AP_90_Kalimba_loop_Amin_feeler.wav",
     "LOOPS/Kalimba/90_Amin/RARE_AP_90_Kalimba_loop_Amin_flyer.wav",
     "LOOPS/Kalimba/90_Amin/RARE_AP_90_Kalimba_loop_Amin_tap.wav",
-    "LOOPS/Kalimba/90_Amin/RARE_AP_90_Kalimba_loop_Amin_touch.wav",
+    "LOOPS/Kalimba/90_Amin/RARE_AP_90_Kalimba_loop_Amin_touch.wav"
+  ],
+  "abp1_90_mbalax": [
     "LOOPS/Mbalax/90/RARE_AP_90_perucussion_Mbalax_loop_note.wav",
     "LOOPS/Mbalax/90/RARE_AP_90_perucussion_Mbalax_loop_organic.wav",
     "LOOPS/Mbalax/90/RARE_AP_90_perucussion_Mbalax_loop_part.wav",
     "LOOPS/Mbalax/90/RARE_AP_90_perucussion_Mbalax_loop_phrase.wav",
     "LOOPS/Mbalax/90/RARE_AP_90_perucussion_Mbalax_loop_piece.wav",
     "LOOPS/Mbalax/90/RARE_AP_90_perucussion_Mbalax_loop_punch.wav",
-    "LOOPS/Mbalax/90/RARE_AP_90_perucussion_Mbalax_loop_puzzle.wav",
+    "LOOPS/Mbalax/90/RARE_AP_90_perucussion_Mbalax_loop_puzzle.wav"
+  ],
+  "abp1_90_rebolo": [
     "LOOPS/Rebolo/90/RARE_AP_90_Drum_Rebolo_loop_bet.wav",
     "LOOPS/Rebolo/90/RARE_AP_90_Drum_Rebolo_loop_effect.wav",
     "LOOPS/Rebolo/90/RARE_AP_90_Drum_Rebolo_loop_vibe.wav",
     "LOOPS/Rebolo/90/RARE_AP_90_Drum_Rebolo_loop_vibration.wav",
-    "LOOPS/Rebolo/90/RARE_AP_90_Drum_Rebolo_loop_wave.wav",
+    "LOOPS/Rebolo/90/RARE_AP_90_Drum_Rebolo_loop_wave.wav"
+  ],
+  "abp1_90_shakers": [
     "LOOPS/Shakers/90/RARE_AP_90_Shakers_loop_cracks.wav",
     "LOOPS/Shakers/90/RARE_AP_90_Shakers_loop_product.wav",
     "LOOPS/Shakers/90/RARE_AP_90_Shakers_loop_rough.wav",
     "LOOPS/Shakers/90/RARE_AP_90_Shakers_loop_smack.wav",
     "LOOPS/Shakers/90/RARE_AP_90_Shakers_loop_smacker.wav",
     "LOOPS/Shakers/90/RARE_AP_90_Shakers_loop_tough.wav",
-    "LOOPS/Shakers/90/RARE_AP_90_Shakers_loop_work.wav",
+    "LOOPS/Shakers/90/RARE_AP_90_Shakers_loop_work.wav"
+  ],
+  "abp1_90_shekere": [
     "LOOPS/Shekere/90/RARE_AP_90_Shekere_loop_auditory.wav",
     "LOOPS/Shekere/90/RARE_AP_90_Shekere_loop_bounce.wav",
     "LOOPS/Shekere/90/RARE_AP_90_Shekere_loop_clang.wav",
     "LOOPS/Shekere/90/RARE_AP_90_Shekere_loop_flavor.wav",
     "LOOPS/Shekere/90/RARE_AP_90_Shekere_loop_lab.wav",
-    "LOOPS/Shekere/90/RARE_AP_90_Shekere_loop_prospect.wav",
+    "LOOPS/Shekere/90/RARE_AP_90_Shekere_loop_prospect.wav"
+  ],
+  "abp1_90_talkingdrum": [
     "LOOPS/Talking_Drum/90/RARE_AP_90_Talking_Drum_loop_bash.wav",
     "LOOPS/Talking_Drum/90/RARE_AP_90_Talking_Drum_loop_hammer.wav",
     "LOOPS/Talking_Drum/90/RARE_AP_90_Talking_Drum_loop_jolt.wav",
     "LOOPS/Talking_Drum/90/RARE_AP_90_Talking_Drum_loop_pound.wav",
     "LOOPS/Talking_Drum/90/RARE_AP_90_Talking_Drum_loop_strike.wav",
-    "LOOPS/Talking_Drum/90/RARE_AP_90_Talking_Drum_loop_thump.wav",
+    "LOOPS/Talking_Drum/90/RARE_AP_90_Talking_Drum_loop_thump.wav"
+  ],
+  "abp1_90_tambourine": [
     "LOOPS/Tambourine/90/RARE_AP_90_Tambourine_loop_bag.wav",
     "LOOPS/Tambourine/90/RARE_AP_90_Tambourine_loop_brick.wav",
     "LOOPS/Tambourine/90/RARE_AP_90_Tambourine_loop_clip.wav",
     "LOOPS/Tambourine/90/RARE_AP_90_Tambourine_loop_slam.wav",
-    "LOOPS/Tambourine/90/RARE_AP_90_Tambourine_loop_slams.wav",
+    "LOOPS/Tambourine/90/RARE_AP_90_Tambourine_loop_slams.wav"
+  ],
+  "abp1_90_thiol": [
     "LOOPS/Thiol/90/RARE_AP_90_Drum_Thiol_loop_maul.wav",
     "LOOPS/Thiol/90/RARE_AP_90_Drum_Thiol_loop_power.wav",
     "LOOPS/Thiol/90/RARE_AP_90_Drum_Thiol_loop_smart.wav",
@@ -298,7 +314,7 @@
     "LOOPS/Thiol/90/RARE_AP_90_Drum_Thiol_loop_thud.wav",
     "LOOPS/Thiol/90/RARE_AP_90_Drum_Thiol_loop_wham.wav"
   ],
-  "abp1_94": [
+  "abp1_94_brushes": [
     "LOOPS/Brushes/94/RARE_AP_94_Brushes_loop_flair.wav",
     "LOOPS/Brushes/94/RARE_AP_94_Brushes_loop_gift.wav",
     "LOOPS/Brushes/94/RARE_AP_94_Brushes_loop_knock.wav",
@@ -313,13 +329,15 @@
     "LOOPS/Bata/104/RARE_AP_104_Percussion_Bata_loop_energy.wav",
     "LOOPS/Bata/104/RARE_AP_104_Percussion_Bata_loop_killin.wav"
   ],
-  "abp1_96": [
+  "abp1_96_bata": [
     "LOOPS/Bata/96/RARE_AP_96_Percussion_Bata_loop_bet.wav",
     "LOOPS/Bata/96/RARE_AP_96_Percussion_Bata_loop_effect.wav",
     "LOOPS/Bata/96/RARE_AP_96_Percussion_Bata_loop_tone.wav",
     "LOOPS/Bata/96/RARE_AP_96_Percussion_Bata_loop_vibe.wav",
     "LOOPS/Bata/96/RARE_AP_96_Percussion_Bata_loop_vibration.wav",
-    "LOOPS/Bata/96/RARE_AP_96_Percussion_Bata_loop_wave.wav",
+    "LOOPS/Bata/96/RARE_AP_96_Percussion_Bata_loop_wave.wav"
+  ],
+  "abp1_96_sticks": [
     "LOOPS/Sticks/96/RARE_AP_96_Percussion_Sticks_loop_craft.wav",
     "LOOPS/Sticks/96/RARE_AP_96_Percussion_Sticks_loop_expert.wav",
     "LOOPS/Sticks/96/RARE_AP_96_Percussion_Sticks_loop_flair.wav",
@@ -328,17 +346,21 @@
     "LOOPS/Sticks/96/RARE_AP_96_Percussion_Sticks_loop_street.wav",
     "LOOPS/Sticks/96/RARE_AP_96_Percussion_Sticks_loop_talent.wav"
   ],
-  "abp1_102": [
+  "abp1_102_bongos": [
     "LOOPS/Bongo/102/RARE_AP_102_Bongos_loop_play.wav",
     "LOOPS/Bongo/102/RARE_AP_102_Bongos_loop_point.wav",
-    "LOOPS/Bongo/102/RARE_AP_102_Bongos_loop_theory.wav",
+    "LOOPS/Bongo/102/RARE_AP_102_Bongos_loop_theory.wav"
+  ],
+  "abp1_102_congas": [
     "LOOPS/Conga/102/RARE_AP_102_Congas_loop_brick.wav",
     "LOOPS/Conga/102/RARE_AP_102_Congas_loop_clip.wav",
     "LOOPS/Conga/102/RARE_AP_102_Congas_loop_cuff.wav",
     "LOOPS/Conga/102/RARE_AP_102_Congas_loop_ding.wav",
     "LOOPS/Conga/102/RARE_AP_102_Congas_loop_drop.wav",
     "LOOPS/Conga/102/RARE_AP_102_Congas_loop_hits.wav",
-    "LOOPS/Conga/102/RARE_AP_102_Congas_loop_maul.wav",
+    "LOOPS/Conga/102/RARE_AP_102_Congas_loop_maul.wav"
+  ],
+  "abp1_102_moroccanbongos": [
     "LOOPS/Moroccan_Bongo/102/RARE_AP_102_Moroccan_Bongos_loop_live.wav",
     "LOOPS/Moroccan_Bongo/102/RARE_AP_102_Moroccan_Bongos_loop_mood.wav"
   ],
@@ -354,12 +376,16 @@
     "LOOPS/Talking_Drum/98/RARE_AP_98_Talking_Drum_loop_collide.wav",
     "LOOPS/Talking_Drum/98/RARE_AP_98_Talking_Drum_loop_shocker.wav"
   ],
-  "abp1_106": [
+  "abp1_106_bottlecaps": [
     "LOOPS/Bottlecaps/106/RARE_AP_106_Percussion_Bottlecaps_loop_craft.wav",
-    "LOOPS/Bottlecaps/106/RARE_AP_106_Percussion_Bottlecaps_loop_expert.wav",
+    "LOOPS/Bottlecaps/106/RARE_AP_106_Percussion_Bottlecaps_loop_expert.wav"
+  ],
+  "abp1_106_claves": [
     "LOOPS/Clave/106/RARE_AP_106_Claves_loop_bash.wav",
     "LOOPS/Clave/106/RARE_AP_106_Claves_loop_batter.wav",
-    "LOOPS/Clave/106/RARE_AP_106_Claves_loop_collide.wav",
+    "LOOPS/Clave/106/RARE_AP_106_Claves_loop_collide.wav"
+  ],
+  "abp1_106_shakers": [
     "LOOPS/Shakers/106/RARE_AP_106_Shakers_loop_audio.wav",
     "LOOPS/Shakers/106/RARE_AP_106_Shakers_loop_blare.wav",
     "LOOPS/Shakers/106/RARE_AP_106_Shakers_loop_blast.wav",
@@ -369,20 +395,26 @@
     "LOOPS/Shakers/106/RARE_AP_106_Shakers_loop_pro.wav",
     "LOOPS/Shakers/106/RARE_AP_106_Shakers_loop_recorded.wav",
     "LOOPS/Shakers/106/RARE_AP_106_Shakers_loop_resonate.wav",
-    "LOOPS/Shakers/106/RARE_AP_106_Shakers_loop_slapper.wav",
+    "LOOPS/Shakers/106/RARE_AP_106_Shakers_loop_slapper.wav"
+  ],
+  "abp1_106_shekere": [
     "LOOPS/Shekere/106/RARE_AP_106_Shekere_loop_design.wav",
     "LOOPS/Shekere/106/RARE_AP_106_Shekere_loop_impression.wav",
     "LOOPS/Shekere/106/RARE_AP_106_Shekere_loop_object.wav",
     "LOOPS/Shekere/106/RARE_AP_106_Shekere_loop_play.wav",
-    "LOOPS/Shekere/106/RARE_AP_106_Shekere_loop_point.wav",
+    "LOOPS/Shekere/106/RARE_AP_106_Shekere_loop_point.wav"
+  ],
+  "abp1_106_shells": [
     "LOOPS/Shells/106/RARE_AP_106_Percussion_Shells_loop_paint.wav",
-    "LOOPS/Shells/106/RARE_AP_106_Percussion_Shells_loop_sense.wav",
+    "LOOPS/Shells/106/RARE_AP_106_Percussion_Shells_loop_sense.wav"
+  ],
+  "abp1_106_tambourine": [
     "LOOPS/Tambourine/106/RARE_AP_106_Tambourine_loop_cuff.wav",
     "LOOPS/Tambourine/106/RARE_AP_106_Tambourine_loop_ding.wav",
     "LOOPS/Tambourine/106/RARE_AP_106_Tambourine_loop_drop.wav",
     "LOOPS/Tambourine/106/RARE_AP_106_Tambourine_loop_hits.wav"
   ],
-  "abp1_116": [
+  "abp1_116_djembe": [
     "LOOPS/Djembe/116/RARE_AP_116_Djembe_loop_paints.wav",
     "LOOPS/Djembe/116/RARE_AP_116_Djembe_loop_rare.wav"
   ]
