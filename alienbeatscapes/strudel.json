@@ -1,0 +1,579 @@
+{
+  "_base": "https://strudel-samples.b-cdn.net/AlienBeatscapes_Wav_SP/",
+  "alienbeatscape_Rim": [
+    "One Shots/Rim/CheckMate_SP_01.wav",
+    "One Shots/Rim/CheckMate_SP_02.wav",
+    "One Shots/Rim/DoubleKnock_SP_01.wav",
+    "One Shots/Rim/HollowKnock_SP_01.wav",
+    "One Shots/Rim/JarKnock_SP_01.wav",
+    "One Shots/Rim/KnockRip_SP_01.wav",
+    "One Shots/Rim/PopKnock_SP_01.wav",
+    "One Shots/Rim/PopKnock_SP_02.wav",
+    "One Shots/Rim/PorcelainKnock_SP_01.wav",
+    "One Shots/Rim/RimStandard_SP_01.wav",
+    "One Shots/Rim/RippleWood_SP_01.wav",
+    "One Shots/Rim/TightKnock_SP_01.wav",
+    "One Shots/Rim/TockKnock_SP_01.wav"
+  ],
+  "alienbeatscape_Cymbals": [
+    "One Shots/Cymbals/LightSplash_SP_01.wav"
+  ],
+  "alienbeatscape_Live_Instruments": [
+    "One Shots/Live Instruments/C#_BlipRipple_SP_01.wav",
+    "One Shots/Live Instruments/C_GlitchTip_SP_01.wav",
+    "One Shots/Live Instruments/C_PianoTremble_SP_01.wav",
+    "One Shots/Live Instruments/D_BassBit_SP_01.wav",
+    "One Shots/Live Instruments/D_FluteToot_SP_01.wav",
+    "One Shots/Live Instruments/D_SaxPap_SP_01.wav",
+    "One Shots/Live Instruments/Eb_FluteTone_SP_01.wav",
+    "One Shots/Live Instruments/Eb_PianoTap_SP_01.wav",
+    "One Shots/Live Instruments/F_GuitarBlip_SP_01.wav",
+    "One Shots/Live Instruments/FluteToot_SP_01.wav",
+    "One Shots/Live Instruments/GlitchSnitch_SP_01.wav"
+  ],
+  "alienbeatscape_Hi-Hats": [
+    "One Shots/Hi-Hats/ChipHiHat_SP_01.wav",
+    "One Shots/Hi-Hats/ChipHiHat_SP_02.wav",
+    "One Shots/Hi-Hats/ClickHiHat_SP_01.wav",
+    "One Shots/Hi-Hats/ClickHiHat_SP_02.wav",
+    "One Shots/Hi-Hats/DoubleHiHat_SP_01.wav",
+    "One Shots/Hi-Hats/MatchHit_SP_01.wav",
+    "One Shots/Hi-Hats/ShortHatOpen_SP_01.wav",
+    "One Shots/Hi-Hats/VentHat_SP_01.wav"
+  ],
+  "alienbeatscape_Percussion": [
+    "One Shots/Percussion/D_GlockSprinkle_SP_02.wav",
+    "One Shots/Percussion/E_GlockSprinkle_SP_01.wav",
+    "One Shots/Percussion/FizzDistort_SP_01.wav",
+    "One Shots/Percussion/GrateScrape_SP_01.wav",
+    "One Shots/Percussion/IceBreathe_SP_01.wav",
+    "One Shots/Percussion/KissHit_SP_01.wav",
+    "One Shots/Percussion/LightTear_SP_01.wav",
+    "One Shots/Percussion/RobotButterfly_SP_01.wav",
+    "One Shots/Percussion/ScratchCarve_SP_01.wav",
+    "One Shots/Percussion/ScratchCarve_SP_02.wav",
+    "One Shots/Percussion/SpaceSneeze_SP_01.wav",
+    "One Shots/Percussion/SpaceSplash_SP_01.wav",
+    "One Shots/Percussion/SwitchDecay_SP_01.wav",
+    "One Shots/Percussion/TinyMetal_SP_01.wav",
+    "One Shots/Percussion/TippingClank_SP_01.wav",
+    "One Shots/Percussion/WooshLofi_SP_01.wav"
+  ],
+  "alienbeatscape_Toms": [
+    "One Shots/Toms/BoomTom_SP_01.wav",
+    "One Shots/Toms/BopTom_SP_01.wav",
+    "One Shots/Toms/F#_BlimpTom_SP_01.wav",
+    "One Shots/Toms/F#_HollowTom_SP_01.wav",
+    "One Shots/Toms/TomClick_SP_01.wav",
+    "One Shots/Toms/TomGame_SP_01.wav",
+    "One Shots/Toms/TomMuted_SP_01.wav",
+    "One Shots/Toms/TomShort_SP_01.wav",
+    "One Shots/Toms/TomTick_SP_01.wav"
+  ],
+  "alienbeatscape_vox": [
+    "One Shots/vox/D_ChirpVox_SP_01.wav",
+    "One Shots/vox/D_OhVox_SP_01.wav",
+    "One Shots/vox/Eb_LoVox_SP_01.wav"
+  ],
+  "alienbeatscape_claps": [
+    "One Shots/claps/LittleClap_SP_01.wav",
+    "One Shots/claps/PhatClap_SP_01.wav",
+    "One Shots/claps/SnipClap_SP_01.wav",
+    "One Shots/claps/SoftClap_SP_01.wav",
+    "One Shots/claps/StutterClap_SP_01.wav",
+    "One Shots/claps/TailClap_SP_01.wav"
+  ],
+  "alienbeatscape_Snares": [
+    "One Shots/Snares/PuttSnare_SP_01.wav",
+    "One Shots/Snares/SnareBit_SP_01.wav",
+    "One Shots/Snares/SnareClip_SP_01.wav",
+    "One Shots/Snares/SnareFlap_SP_01.wav",
+    "One Shots/Snares/SnareLive_SP_01.wav",
+    "One Shots/Snares/SnareScrape_SP_01.wav",
+    "One Shots/Snares/SnareSmall_SP_01.wav",
+    "One Shots/Snares/SnareSnappy_SP_01.wav",
+    "One Shots/Snares/SnareStandard_SP_01.wav",
+    "One Shots/Snares/SnareTom_SP_01.wav",
+    "One Shots/Snares/TightSnare_SP_01.wav",
+    "One Shots/Snares/TinSnare_SP_01.wav"
+  ],
+  "alienbeatscape_Shakers": [
+    "One Shots/Shakers/BiteShaker_SP_02.wav",
+    "One Shots/Shakers/CricketRattle_SP_01.wav",
+    "One Shots/Shakers/LightShaker_SP_01.wav",
+    "One Shots/Shakers/SmallShaker_SP_01.wav",
+    "One Shots/Shakers/VentShaker_SP_01.wav",
+    "One Shots/Shakers/WetShaker_SP_01.wav"
+  ],
+  "alienbeatscape_kicks": [
+    "One Shots/kicks/BoomKick_SP_01.wav",
+    "One Shots/kicks/HardKick_SP_01.wav",
+    "One Shots/kicks/KickBig_SP_01.wav",
+    "One Shots/kicks/KickClock_SP_01.wav",
+    "One Shots/kicks/KickClub_SP_01.wav",
+    "One Shots/kicks/KickDance_SP_01.wav",
+    "One Shots/kicks/KickFat_SP_01.wav",
+    "One Shots/kicks/KickKnock_SP_01.wav",
+    "One Shots/kicks/KickLive_SP_02.wav",
+    "One Shots/kicks/KickSnap_SP_01.wav",
+    "One Shots/kicks/KickSoft_SP_01.wav",
+    "One Shots/kicks/KickThudzip_SP_01.wav",
+    "One Shots/kicks/KickThump_SP_01.wav",
+    "One Shots/kicks/KickTop_SP_01.wav",
+    "One Shots/kicks/LongKick_SP_01.wav"
+  ],
+  "alienbeatscape_Chords": [
+    "One Shots/Chords/A_FairyChuckle_SP_01.wav",
+    "One Shots/Chords/A_LofiMoment_SP_01.wav",
+    "One Shots/Chords/Ab_DistortionBump_SP_01.wav",
+    "One Shots/Chords/Bb_TrumpetDiss_SP_01.wav",
+    "One Shots/Chords/C#_InterruptBlip_SP_01.wav",
+    "One Shots/Chords/C#_SynthMoan_SP_01.wav",
+    "One Shots/Chords/E_SpaceTaste_SP_01.wav",
+    "One Shots/Chords/F#_LittleBlip_SP_01.wav",
+    "One Shots/Chords/F#_SharpChop_SP_01.wav",
+    "One Shots/Chords/F_PopChord_SP_01.wav",
+    "One Shots/Chords/F_WaveChirp_SP_01.wav",
+    "One Shots/Chords/G_ChordPlonk_SP_01.wav",
+    "One Shots/Chords/G_HollowRip_SP_01.wav"
+  ],
+  "alienbeatscape_88_F#": [
+    "Loops/Live Instruments/88_F#_TicketyBoo_SP_01.wav",
+    "Loops/Live Instruments/88_F#_TubeFun_SP_01.wav"
+  ],
+  "alienbeatscape_120_Bb": [
+    "Loops/Live Instruments/120_Bb_SaxOrgan_SP_01.wav",
+    "Loops/Live Instruments/120_Bb_SaxSmooth_SP_01.wav"
+  ],
+  "alienbeatscape_120_D": [
+    "Loops/Live Instruments/120_D_LittleGlock_SP_01.wav"
+  ],
+  "alienbeatscape_140_B": [
+    "Loops/Live Instruments/140_B_PunchyPows_SP_01.wav"
+  ],
+  "alienbeatscape_90_G#": [
+    "Loops/Live Instruments/90_G#_SmallStar_SP_01.wav"
+  ],
+  "alienbeatscape_105_Bb": [
+    "Loops/Live Instruments/105_Bb_CosmicSaxPad_SP_01.wav",
+    "Loops/Live Instruments/105_Bb_LofiPluck_SP_01.wav",
+    "Loops/Live Instruments/105_Bb_SaxConvo_SP_01.wav",
+    "Loops/Live Instruments/105_Bb_SaxConvo_SP_02.wav",
+    "Loops/Live Instruments/105_Bb_TelephoneStrings_SP_01.wav",
+    "Loops/Live Instruments/105_Bb_TicketyBoo_SP_02.wav"
+  ],
+  "alienbeatscape_88_Eb": [
+    "Loops/Live Instruments/88_Eb_RigglyGuitar_SP_01.wav"
+  ],
+  "alienbeatscape_100_E": [
+    "Loops/Live Instruments/100_E_PatternGlock_SP_01.wav"
+  ],
+  "alienbeatscape_100_F#": [
+    "Loops/Live Instruments/100_F#_HoneyGuitar_SP_01.wav",
+    "Loops/Live Instruments/100_F#_HoneyGuitar_SP_02.wav",
+    "Loops/Live Instruments/100_F#_RepititivePluck_SP_01.wav"
+  ],
+  "alienbeatscape_170_Live_Instruments": [
+    "Loops/Live Instruments/170_A_ClarinetLoom_SP_01.wav",
+    "Loops/Live Instruments/170_D_ClarinetStretch_SP_01.wav"
+  ],
+  "alienbeatscape_110_FX": [
+    "Loops/FX/110_CrackleFire_SP_01.wav",
+    "Loops/FX/110_G_FlutterClutter_SP_01.wav",
+    "Loops/FX/110_SpaceWater_SP_01.wav",
+    "Loops/FX/110_C#_WashingBlob_SP_01.wav"
+  ],
+  "alienbeatscape_90_FX": [
+    "Loops/FX/90_C#_GritLight_SP_01.wav"
+  ],
+  "alienbeatscape_128_FX": [
+    "Loops/FX/128_CitrusCircuit_SP_01.wav"
+  ],
+  "alienbeatscape_120_FX": [
+    "Loops/FX/120_Eb_SparksFly_SP_01.wav"
+  ],
+  "alienbeatscape_130_FX": [
+    "Loops/FX/130_A_AmpSweep_SP_01.wav"
+  ],
+  "alienbeatscape_120_FX": [
+    "Loops/FX/120_F#_SpaceCar_SP_01.wav"
+  ],
+  "alienbeatscape_116_FX": [
+    "Loops/FX/116_Ab_PixieLeaps_SP_02.wav",
+    "Loops/FX/116_DigitalBirds_SP_01.wav"
+  ],
+  "alienbeatscape_170_FX": [
+    "Loops/FX/170_WaftWave_SP_01.wav"
+  ],
+  "alienbeatscape_70_Drums": [
+    "Loops/Drums/70_ScatteredBeat_SP_01.wav"
+  ],
+  "alienbeatscape_170_Drums": [
+    "Loops/Drums/170_BitThumpBeat_SP_01.wav",
+    "Loops/Drums/170_Boombank_SP_01.wav",
+    "Loops/Drums/170_F_GushBeat_SP_01.wav"
+  ],
+  "alienbeatscape_116_Drums": [
+    "Loops/Drums/116_AnthroBeat_SP_01.wav",
+    "Loops/Drums/116_AnthroBeat_SP_02.wav",
+    "Loops/Drums/116_D_MoodyBeat_SP_01.wav"
+  ],
+  "alienbeatscape_112_Drums": [
+    "Loops/Drums/112_DarkBeat_SP_01.wav",
+    "Loops/Drums/112_ScatterBeat_SP_01.wav"
+  ],
+  "alienbeatscape_120_Drums": [
+    "Loops/Drums/120_BeatBrazil_SP_01.wav",
+    "Loops/Drums/120_BoatBeat_SP_01.wav",
+    "Loops/Drums/120_HouseHello_SP_01.wav",
+    "Loops/Drums/120_MiddleBeat_SP_01.wav",
+    "Loops/Drums/120_PaperBeat_SP_01.wav",
+    "Loops/Drums/120_SpaciousBeat_SP_01.wav"
+  ],
+  "alienbeatscape_110_Drums": [
+    "Loops/Drums/110_BeatDaiquiri_SP_01.wav",
+    "Loops/Drums/110_BeatTribe_SP_01.wav"
+  ],
+  "alienbeatscape_146_Drums": [
+    "Loops/Drums/146_ShoeBeat_SP_01.wav"
+  ],
+  "alienbeatscape_160_Drums": [
+    "Loops/Drums/160_FootBeat_SP_01.wav"
+  ],
+  "alienbeatscape_130_Drums": [
+    "Loops/Drums/130_BeatAttack_SP_01.wav",
+    "Loops/Drums/130_BeatPlay_SP_01.wav",
+    "Loops/Drums/130_FloorBeat_SP_01.wav",
+    "Loops/Drums/130_TrapStamp_SP_01.wav",
+    "Loops/Drums/130_TrapStamp_SP_02.wav"
+  ],
+  "alienbeatscape_105_Drums": [
+    "Loops/Drums/105_StopBeat_SP_01.wav"
+  ],
+  "alienbeatscape_100_Drums": [
+    "Loops/Drums/100_BlockBeat_SP_01.wav",
+    "Loops/Drums/100_BlockBeat_SP_02.wav",
+    "Loops/Drums/100_ClipClopBeat_SP_01.wav",
+    "Loops/Drums/100_CoinBeat_SP_01.wav"
+  ],
+  "alienbeatscape_90_Drums": [
+    "Loops/Drums/90_ItchyBeat_SP_01.wav"
+  ],
+  "alienbeatscape_115_Drums": [
+    "Loops/Drums/115_SiestaWakeup_SP_01.wav"
+  ],
+  "alienbeatscape_140_Drums": [
+    "Loops/Drums/140_MyriadBeat_SP_01.wav",
+    "Loops/Drums/140_TickBeat_SP_01.wav",
+    "Loops/Drums/140_TickBeat_SP_02.wav",
+    "Loops/Drums/140_TwitchBeat_SP_01.wav"
+  ],
+  "alienbeatscape_88_Drums": [
+    "Loops/Drums/88_BeatChill_SP_01.wav"
+  ],
+  "alienbeatscape_150_Drums": [
+    "Loops/Drums/150_AreBeat_SP_01.wav"
+  ],
+  "alienbeatscape_100_F_Bass": [
+    "Loops/Bass/100_F_BassBounce_SP_01.wav",
+    "Loops/Bass/100_F_BassBravange_SP_01.wav",
+    "Loops/Bass/100_F_BassGame_SP_01.wav",
+    "Loops/Bass/100_F_SpittingBass_SP_02.wav"
+  ],
+  "alienbeatscape_180_C#_Bass": [
+    "Loops/Bass/180_C#_BassChimp_SP_01.wav"
+  ],
+  "alienbeatscape_130_Bass": [
+    "Loops/Bass/130_Ab_StubbornBass_SP_01.wav",
+    "Loops/Bass/130_Ab_StubbornBass_SP_02.wav",
+    "Loops/Bass/130_G_BloomBass_SP_01.wav"
+  ],
+  "alienbeatscape_70_Bass": [
+    "Loops/Bass/70_A_ToothBass_SP_01.wav"
+  ],
+  "alienbeatscape_120_Bass": [
+    "Loops/Bass/120_B_ToyBass_SP_02.wav",
+    "Loops/Bass/120_D_WeepBass_SP_01.wav"
+  ],
+  "alienbeatscape_170_Bass": [
+    "Loops/Bass/170_A_BassWade_SP_01.wav",
+    "Loops/Bass/170_B_BassMumble_SP_01.wav",
+    "Loops/Bass/170_F_BassEmerge_SP_01.wav"
+  ],
+  "alienbeatscape_88_Bass": [
+    "Loops/Bass/88_C_BassChunks_SP_02.wav",
+    "Loops/Bass/88_D_BassChunks_SP_01.wav"
+  ],
+  "alienbeatscape_88_F#_Bass": [
+    "Loops/Bass/88_F#_Twinbass_SP_01.wav"
+  ],
+  "alienbeatscape_125_F#_Bass": [
+    "Loops/Bass/125_F#_CarveBass_SP_01.wav"
+  ],
+  "alienbeatscape_110_Bass": [
+    "Loops/Bass/110_B_SmudgeBass_SP_01.wav",
+    "Loops/Bass/110_C_BassBump_SP_01.wav",
+    "Loops/Bass/110_Eb_OrientBass_SP_01.wav"
+  ],
+  "alienbeatscape_116_G_Bass": [
+    "Loops/Bass/116_G_AngryBass_SP_01.wav",
+    "Loops/Bass/116_G_AngryBass_SP_02.wav"
+  ],
+  "alienbeatscape_112_G_Bass": [
+    "Loops/Bass/112_G_BassMan_SP_01.wav",
+    "Loops/Bass/112_G_BassMan_SP_02.wav"
+  ],
+  "alienbeatscape_160_F_Bass": [
+    "Loops/Bass/160_F_AncientBass_SP_01.wav",
+    "Loops/Bass/160_F_AncientBass_SP_02.wav"
+  ],
+  "alienbeatscape_150_Ab_Bass": [
+    "Loops/Bass/150_Ab_BassPlug_SP_01.wav"
+  ],
+  "alienbeatscape_130_Percussion": [
+    "Loops/Percussion/130_C_CelticCrunch_SP_01.wav",
+    "Loops/Percussion/130_F_BubblingSludge_SP_01.wav",
+    "Loops/Percussion/130_RipRattle_SP_01.wav",
+    "Loops/Percussion/130_RunPop_SP_01.wav"
+  ],
+  "alienbeatscape_70_Percussion": [
+    "Loops/Percussion/70_A_ClapBell_SP_01.wav",
+    "Loops/Percussion/70_B_HighTomTumble_SP_01.wav",
+    "Loops/Percussion/70_C_DigitalKnock_SP_01.wav",
+    "Loops/Percussion/70_TurnScrape_SP_01.wav"
+  ],
+  "alienbeatscape_100_Percussion": [
+    "Loops/Percussion/100_RattleFilter_SP_01.wav",
+    "Loops/Percussion/100_SnakeMove_SP_01.wav",
+    "Loops/Percussion/100_WobbleFlare_SP_01.wav"
+  ],
+  "alienbeatscape_120_Percussion": [
+    "Loops/Percussion/120_Ab_ClankCave_SP_01.wav",
+    "Loops/Percussion/120_Ab_ClankCave_SP_02.wav",
+    "Loops/Percussion/120_C_MuffledPercussion_SP_01.wav",
+    "Loops/Percussion/120_PercussiveSquelch_SP_01.wav"
+  ],
+  "alienbeatscape_170_Percussion": [
+    "Loops/Percussion/170_PinPrick_SP_01.wav",
+    "Loops/Percussion/170_TapTick_SP_01.wav"
+  ],
+  "alienbeatscape_125_Percussion": [
+    "Loops/Percussion/125_PercussiveVent_SP_01.wav"
+  ],
+  "alienbeatscape_140_Percussion": [
+    "Loops/Percussion/140_ClickClank_SP_01.wav"
+  ],
+  "alienbeatscape_110_Percussion": [
+    "Loops/Percussion/110_ShakerSweep_SP_01.wav"
+  ],
+  "alienbeatscape_70_Pads": [
+    "Loops/Pads/70_A_MartianBassPad_SP_01.wav",
+    "Loops/Pads/70_B_SynthWash_SP_01.wav"
+  ],
+  "alienbeatscape_120_Pads": [
+    "Loops/Pads/120_B_NostalgicPad_SP_01.wav",
+    "Loops/Pads/120_D_LucidPad_SP_01.wav",
+    "Loops/Pads/120_D_StingyPad_SP_01.wav",
+    "Loops/Pads/120_FusePatting_SP_01.wav"
+  ],
+  "alienbeatscape_110_Pads": [
+    "Loops/Pads/110_D_SwirlPool_SP_01.wav",
+    "Loops/Pads/110_G_MutedMemory_SP_02.wav"
+  ],
+  "alienbeatscape_90_Pads": [
+    "Loops/Pads/90_A_GrainPad_SP_01.wav",
+    "Loops/Pads/90_A_SadStride_SP_01.wav"
+  ],
+  "alienbeatscape_146_Pads": [
+    "Loops/Pads/146_A_SadPad_SP_01.wav",
+    "Loops/Pads/146_G_SadPad_SP_02.wav"
+  ],
+  "alienbeatscape_100_Pads": [
+    "Loops/Pads/100_F_PassivePhase_SP_01.wav"
+  ],
+  "alienbeatscape_112_Pads": [
+    "Loops/Pads/112_Eb_Lo-fiLoving_SP_01.wav",
+    "Loops/Pads/112_G_FuzzFuse_SP_01.wav"
+  ],
+  "alienbeatscape_88_Pads": [
+    "Loops/Pads/88_D_LucidPad_SP_02.wav"
+  ],
+  "alienbeatscape_130_Pads": [
+    "Loops/Pads/130_G_BloomBark_SP_01.wav"
+  ],
+  "alienbeatscape_170_Pads": [
+    "Loops/Pads/170_A_GrowlPad_SP_01.wav"
+  ],
+  "alienbeatscape_115_Pads": [
+    "Loops/Pads/115_D_ReachingPad_SP_01.wav",
+    "Loops/Pads/115_D_ReachingPad_SP_02.wav"
+  ],
+  "alienbeatscape_80_Synth": [
+    "Loops/Synth/80_C_WahSynth_SP_01.wav",
+    "Loops/Synth/80_E_AttentionSeeker_SP_02.wav",
+    "Loops/Synth/80_F_AttentionSeeker_SP_01.wav"
+  ],
+  "alienbeatscape_70_Synth": [
+    "Loops/Synth/70_E_SynthWave_SP_01.wav"
+  ],
+  "alienbeatscape_170_Synth": [
+    "Loops/Synth/170_A_SynthSin_SP_01.wav",
+    "Loops/Synth/170_A_SynthSting_SP_01.wav",
+    "Loops/Synth/170_A_ZwingPad_SP_01.wav"
+  ],
+  "alienbeatscape_84_Synth": [
+    "Loops/Synth/84_C_SleepTrail_SP_01.wav"
+  ],
+  "alienbeatscape_105_Synth": [
+    "Loops/Synth/105_Bb_CyborgScratch_SP_01.wav"
+  ],
+  "alienbeatscape_88_Synth": [
+    "Loops/Synth/88_A_ChuckStab_SP_01.wav"
+  ],
+  "alienbeatscape_160_Synth": [
+    "Loops/Synth/160_A_ChaosBreathe_SP_01.wav",
+    "Loops/Synth/160_F_HousePlay_SP_01.wav",
+    "Loops/Synth/160_F_HousePlay_SP_02.wav"
+  ],
+  "alienbeatscape_120_Synth": [
+    "Loops/Synth/120_C_RazorScratch_SP_01.wav",
+    "Loops/Synth/120_D_MysticPonder_SP_01.wav",
+    "Loops/Synth/120_E_SynthCrackle_SP_02.wav"
+  ],
+  "alienbeatscape_110_Synth": [
+    "Loops/Synth/110_Ab_FlitStrip_SP_01.wav",
+    "Loops/Synth/110_C_DanceStab_SP_01.wav",
+    "Loops/Synth/110_C_SoftSynth_SP_01.wav",
+    "Loops/Synth/110_E_SlopSynth_SP_01.wav",
+    "Loops/Synth/110_E_SpaciousDrops_SP_01.wav",
+    "Loops/Synth/110_Eb_MenaceSynth_SP_01.wav",
+    "Loops/Synth/110_Eb_MonoMini_SP_01.wav",
+    "Loops/Synth/110_F_ChainVent_SP_01.wav",
+    "Loops/Synth/110_F_CrazyWhoops_SP_01.wav",
+    "Loops/Synth/110_F_EchoChop_SP_01.wav"
+  ],
+  "alienbeatscape_90_Synth": [
+    "Loops/Synth/90_A_WobbleWeep_SP_01.wav",
+    "Loops/Synth/90_Bb_SprinkleStats_SP_02.wav",
+    "Loops/Synth/90_F_SprinkleStats_SP_01.wav",
+    "Loops/Synth/90_G_CottonFlies_SP_01.wav"
+  ],
+  "alienbeatscape_115_Synth": [
+    "Loops/Synth/115_A_TrembleSteps_SP_01.wav",
+    "Loops/Synth/115_D_SensitiveElectric_SP_01.wav"
+  ],
+  "alienbeatscape_116_Synth": [
+    "Loops/Synth/116_A_LofiRambling_SP_01.wav",
+    "Loops/Synth/116_D_SynthReply_SP_01.wav",
+    "Loops/Synth/116_F_PixieLeaps_SP_01.wav",
+    "Loops/Synth/116_G_BornSynth_SP_01.wav",
+    "Loops/Synth/116_G_SlenderSynth_SP_01.wav"
+  ],
+  "alienbeatscape_100_F#_Synth": [
+    "Loops/Synth/100_F#_SmoothSynth_SP_01.wav",
+    "Loops/Synth/100_F#_SynthRust_SP_01.wav"
+  ],
+  "alienbeatscape_170_F#_Synth": [
+    "Loops/Synth/170_F#_StingChop_SP_01.wav"
+  ],
+  "alienbeatscape_100_Synth": [
+    "Loops/Synth/100_Ab_BobblePop_SP_01.wav"
+  ],
+  "alienbeatscape_130_Synth": [
+    "Loops/Synth/130_A_HollowFun_SP_01.wav",
+    "Loops/Synth/130_D_DancePlopping_SP_01.wav",
+    "Loops/Synth/130_Eb_DancePlopping_SP_02.wav"
+  ],
+  "alienbeatscape_180_Synth": [
+    "Loops/Synth/180_A_SynthWharp_SP_01.wav"
+  ],
+  "alienbeatscape_150_Synth": [
+    "Loops/Synth/150_Ab_FlashbackSynth_SP_01.wav"
+  ],
+  "alienbeatscape_100_Vox": [
+    "Loops/Vox/100_A_GlideSpeech_SP_01.wav",
+    "Loops/Vox/100_F_RaspVox_SP_01.wav"
+  ],
+  "alienbeatscape_110_Vox": [
+    "Loops/Vox/110_G_FoldVox_SP_01.wav"
+  ],
+  "alienbeatscape_100_C#_Vox": [
+    "Loops/Vox/100_C#_VoxShare_SP_01.wav"
+  ],
+  "alienbeatscape_115_Vox": [
+    "Loops/Vox/115_Eb_DuoVox_SP_01.wav"
+  ],
+  "alienbeatscape_130_Vox": [
+    "Loops/Vox/130_A_BleurghVox_SP_01.wav",
+    "Loops/Vox/130_F_SquidgePop_SP_01.wav",
+    "Loops/Vox/130_F_VoxWash_SP_01.wav"
+  ],
+  "alienbeatscape_160_Vox": [
+    "Loops/Vox/160_C_VoxConverse_SP_01.wav"
+  ],
+  "alienbeatscape_105_C#_Vox": [
+    "Loops/Vox/105_C#_PlopVox_SP_01.wav"
+  ],
+  "alienbeatscape_170_C#_Vox": [
+    "Loops/Vox/170_C#_GlitchSnip_SP_01.wav"
+  ],
+  "alienbeatscape_105_Vox": [
+    "Loops/Vox/105_Bb_BabbaVox_SP_01.wav"
+  ],
+  "alienbeatscape_90_Keys": [
+    "Loops/Keys/90_F_Kinderkeys_SP_01.wav"
+  ],
+  "alienbeatscape_110_C#_Keys": [
+    "Loops/Keys/110_C#_OldLine_SP_01.wav"
+  ],
+  "alienbeatscape_140_Keys": [
+    "Loops/Keys/140_A_DreamPops_SP_01.wav",
+    "Loops/Keys/140_E_OldOrgan_SP_01.wav"
+  ],
+  "alienbeatscape_120_Keys": [
+    "Loops/Keys/120_Ab_OrganPick_SP_02.wav",
+    "Loops/Keys/120_B_LittleWave_SP_01.wav",
+    "Loops/Keys/120_B_RhymeKeys_SP_01.wav",
+    "Loops/Keys/120_B_RhymeKeys_SP_02.wav",
+    "Loops/Keys/120_Eb_HomelyKeys_SP_01.wav",
+    "Loops/Keys/120_F_AmpStab_SP_01.wav",
+    "Loops/Keys/120_F_BeamPlop_SP_01.wav",
+    "Loops/Keys/120_F_CrystalShake_SP_01.wav",
+    "Loops/Keys/120_F_CrystalShake_SP_02.wav",
+    "Loops/Keys/120_F_OrganPick_SP_01.wav"
+  ],
+  "alienbeatscape_110_Keys": [
+    "Loops/Keys/110_Eb_WooshKeys_SP_01.wav",
+    "Loops/Keys/110_G_SpookTop_SP_01.wav"
+  ],
+  "alienbeatscape_88_F#_Keys": [
+    "Loops/Keys/88_F#_MoodyKeys_SP_01.wav"
+  ],
+  "alienbeatscape_105_Keys": [
+    "Loops/Keys/105_Bb_KronkOrgan_SP_01.wav"
+  ],
+  "alienbeatscape_100_Keys": [
+    "Loops/Keys/100_E_BrokenPiano_SP_01.wav",
+    "Loops/Keys/100_F_LoungeKeys_SP_01.wav",
+    "Loops/Keys/100_F_OrganicOrgan_SP_01.wav"
+  ],
+  "alienbeatscape_146_F#_Keys": [
+    "Loops/Keys/146_F#_ManicOrgan_SP_01.wav",
+    "Loops/Keys/146_F#_ManicOrgan_SP_02.wav"
+  ],
+  "alienbeatscape_180_Keys": [
+    "Loops/Keys/180_A_WoodenBubbles_SP_01.wav"
+  ],
+  "alienbeatscape_80_Keys": [
+    "Loops/Keys/80_C_BlimpDreams_SP_01.wav"
+  ],
+  "alienbeatscape_150_Keys": [
+    "Loops/Keys/150_Ab_HeadSmudge_SP_01.wav"
+  ],
+  "alienbeatscape_130_Keys": [
+    "Loops/Keys/130_C_PluckTouch_SP_01.wav"
+  ],
+  "alienbeatscape_115_F#_Keys": [
+    "Loops/Keys/115_F#_SqueakDance_SP_01.wav"
+  ]
+}
