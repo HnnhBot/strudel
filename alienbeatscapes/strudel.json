@@ -188,7 +188,6 @@
     ]
   },
 
-  /* ---------- LOOPS: Live Instruments ---------- */
   "alienbeatscape_88_F#_Live_Instruments": [
     "Loops/Live Instruments/88_F#_TicketyBoo_SP_01.wav",
     "Loops/Live Instruments/88_F#_TubeFun_SP_01.wav"
@@ -232,7 +231,7 @@
     "Loops/Live Instruments/170_D_ClarinetStretch_SP_01.wav"
   ],
 
-  /* ---------- LOOPS: FX ---------- */
+
   "alienbeatscape_110_FX": [
     "Loops/FX/110_CrackleFire_SP_01.wav",
     "Loops/FX/110_SpaceWater_SP_01.wav"
@@ -268,7 +267,7 @@
     "Loops/FX/170_WaftWave_SP_01.wav"
   ],
 
-  /* ---------- LOOPS: Drums (no key) ---------- */
+
   "alienbeatscape_70_Drums": [
     "Loops/Drums/70_ScatteredBeat_SP_01.wav"
   ],
@@ -339,7 +338,7 @@
     "Loops/Drums/170_F_GushBeat_SP_01.wav"
   ],
 
-  /* ---------- LOOPS: Bass ---------- */
+
   "alienbeatscape_70_A_Bass": [
     "Loops/Bass/70_A_ToothBass_SP_01.wav"
   ],
@@ -411,7 +410,7 @@
     "Loops/Bass/180_C#_BassChimp_SP_01.wav"
   ],
 
-  /* ---------- LOOPS: Percussion ---------- */
+ 
   "alienbeatscape_70_A_Percussion": [
     "Loops/Percussion/70_A_ClapBell_SP_01.wav"
   ],
@@ -460,7 +459,7 @@
     "Loops/Percussion/170_TapTick_SP_01.wav"
   ],
 
-  /* ---------- LOOPS: Pads ---------- */
+ 
   "alienbeatscape_70_A_Pads": [
     "Loops/Pads/70_A_MartianBassPad_SP_01.wav"
   ],
@@ -526,7 +525,7 @@
     "Loops/Pads/170_A_GrowlPad_SP_01.wav"
   ],
 
-  /* ---------- LOOPS: Synth ---------- */
+
   "alienbeatscape_70_E_Synth": [
     "Loops/Synth/70_E_SynthWave_SP_01.wav"
   ],
@@ -634,7 +633,7 @@
     "Loops/Synth/180_A_SynthWharp_SP_01.wav"
   ],
 
-  /* ---------- LOOPS: Vox ---------- */
+
   "alienbeatscape_100_A_Vox": [
     "Loops/Vox/100_A_GlideSpeech_SP_01.wav"
   ],
@@ -670,7 +669,7 @@
     "Loops/Vox/170_C#_GlitchSnip_SP_01.wav"
   ],
 
-  /* ---------- LOOPS: Keys ---------- */
+
   "alienbeatscape_80_C_Keys": [
     "Loops/Keys/80_C_BlimpDreams_SP_01.wav"
   ],

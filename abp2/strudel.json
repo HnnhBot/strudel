@@ -1,7 +1,6 @@
 {
   "_base": "https://strudel-samples.b-cdn.net/Afro%20Beats%20Percussion%20vol.2/ABP2_audio/",
 
-  /* ------------------ ONE SHOTS (instrument-separated; names standardized) ------------------ */
   "abp2_Bata_Mundi_FX": [
     "Oneshots/Bata_Mundi_FX/RARE_ABP2_BataMundi_FX_oneshot_hard.wav",
     "Oneshots/Bata_Mundi_FX/RARE_ABP2_BataMundi_FX_oneshot_punch.wav",
@@ -128,7 +127,6 @@
     "Oneshots/Kicks/RARE_ABP2_Kick_drum_oneshot_studio.wav"
   ],
 
-  /* ------------------ LOOPS (split by instrument; BPM in key name) ------------------ */
 
   "abp2_128_Bata_Mundi_FX": [
     "Loops/Bata_Mundi_FX/128/RARE_ABP2_128_BataMundi_FX_loop_batter.wav",
