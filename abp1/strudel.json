@@ -1,7 +1,6 @@
 {
   "_base": "https://strudel-samples.b-cdn.net/ABP1_audio/",
 
-  /* ------------------ ONE SHOTS (unchanged, instrument-separated) ------------------ */
   "abp1_Kick": [
     "ONESHOTS/Kick/RARE_AP_Kick_oneshot_piece.wav",
     "ONESHOTS/Kick/RARE_AP_Kick_oneshot_punch.wav"
@@ -122,9 +121,7 @@
     "ONESHOTS/Thiol/RARE_AP_Thiol_oneshot_slapper.wav"
   ],
 
-  /* ------------------ LOOPS (split by instrument; BPM in key name) ------------------ */
 
-  /* 92 BPM */
   "abp1_92_Agogo": [
     "LOOPS/Agogo/92/RARE_AP_92_Agogo_loop_part.wav",
     "LOOPS/Agogo/92/RARE_AP_92_Agogo_loop_phrase.wav",
@@ -189,7 +186,6 @@
     "LOOPS/Shells/92/RARE_AP_92_Percussion_Shells_loop_theory.wav"
   ],
 
-  /* 108 BPM */
   "abp1_108_Agogo": [
     "LOOPS/Agogo/108/RARE_AP_108_Agogo_loop_puzzle.wav"
   ],
@@ -222,7 +218,6 @@
     "LOOPS/Talking_Drum/108/RARE_AP_108_Talking_Drum_loop_flay.wav"
   ],
 
-  /* 110 BPM */
   "abp1_110_Bata": [
     "LOOPS/Bata/110/RARE_AP_110_Percussion_Bata_loop_cracks.wav",
     "LOOPS/Bata/110/RARE_AP_110_Percussion_Bata_loop_product.wav",
@@ -259,7 +254,6 @@
     "LOOPS/Thiol/110/RARE_AP_110_Drum_Thiol_loop_slammer.wav"
   ],
 
-  /* 100 BPM */
   "abp1_100_Djembe": [
     "LOOPS/Djembe/100/RARE_AP_100_Djembe_loop_bags.wav",
     "LOOPS/Djembe/100/RARE_AP_100_Djembe_loop_damp.wav",
@@ -298,7 +292,6 @@
     "LOOPS/Thiol/100/RARE_AP_100_Drum_Thiol_loop_vibration.wav"
   ],
 
-  /* 98–116 BPM and other sets */
   "abp1_98_Talking_Drum": [
     "LOOPS/Talking_Drum/98/RARE_AP_98_Talking_Drum_loop_attack.wav",
     "LOOPS/Talking_Drum/98/RARE_AP_98_Talking_Drum_loop_batter.wav",
@@ -413,8 +406,7 @@
     "LOOPS/Djembe/116/RARE_AP_116_Djembe_loop_rare.wav"
   ],
 
-  /* 90 BPM groups (standardized names) */
-  "abp1_90_Conga": [
+ "abp1_90_Conga": [
     "LOOPS/Conga/90/RARE_AP_90_Congas_loop_attack.wav",
     "LOOPS/Conga/90/RARE_AP_90_Congas_loop_bag.wav",
     "LOOPS/Conga/90/RARE_AP_90_Congas_loop_bump.wav",
