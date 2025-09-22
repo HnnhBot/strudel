@@ -1,17 +1,19 @@
 {
   "_base": "https://strudel-samples.b-cdn.net/Afro%20Beats%20Percussion%20vol.2/ABP2_audio/",
-  "abp2_bata_mundi_fx": [
+
+  /* ------------------ ONE SHOTS (instrument-separated; names standardized) ------------------ */
+  "abp2_Bata_Mundi_FX": [
     "Oneshots/Bata_Mundi_FX/RARE_ABP2_BataMundi_FX_oneshot_hard.wav",
     "Oneshots/Bata_Mundi_FX/RARE_ABP2_BataMundi_FX_oneshot_punch.wav",
     "Oneshots/Bata_Mundi_FX/RARE_ABP2_BataMundi_FX_oneshot_smack.wav"
   ],
-  "abp2_bells": [
+  "abp2_Bells": [
     "Oneshots/Bells/RARE_ABP2_Bell_oneshot_piece.wav",
     "Oneshots/Bells/RARE_ABP2_Bell_oneshot_puzzlepiece.wav",
     "Oneshots/Bells/RARE_ABP2_Bell_oneshot_slap.wav",
     "Oneshots/Bells/RARE_ABP2_Bell_oneshot_thought.wav"
   ],
-  "abp2_shaker": [
+  "abp2_Shaker": [
     "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_auditory.wav",
     "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_blare.wav",
     "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_blast.wav",
@@ -20,12 +22,12 @@
     "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_resonate.wav",
     "Oneshots/Shaker/RARE_ABP2_Shaker_oneshot_theme.wav"
   ],
-  "abp2_cymbals": [
+  "abp2_Cymbals": [
     "Oneshots/Cymbals/RARE_ABP2_Cymbal_oneshot_fire.wav",
     "Oneshots/Cymbals/RARE_ABP2_Cymbal_oneshot_line.wav",
     "Oneshots/Cymbals/RARE_ABP2_Cymbal_oneshot_theme.wav"
   ],
-  "abp2_bongo": [
+  "abp2_Bongo": [
     "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_acoustic.wav",
     "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_color.wav",
     "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_cool.wav",
@@ -35,7 +37,7 @@
     "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_rhythm.wav",
     "Oneshots/Bongo/RARE_ABP2_Bongo_oneshot_slaps.wav"
   ],
-  "abp2_conga": [
+  "abp2_Conga": [
     "Oneshots/Conga/RARE_ABP2_Conga_oneshot_idea.wav",
     "Oneshots/Conga/RARE_ABP2_Conga_oneshot_note.wav",
     "Oneshots/Conga/RARE_ABP2_Conga_oneshot_soul.wav",
@@ -44,29 +46,29 @@
     "Oneshots/Conga/RARE_ABP2_Conga_oneshot_tone.wav",
     "Oneshots/Conga/RARE_ABP2_Conga_oneshot_vibration.wav"
   ],
-  "abp2_doorkeys": [
+  "abp2_Doorkeys": [
     "Oneshots/Doorkeys/RARE_ABP2_Doorkeys_oneshot_concept_.wav"
   ],
-  "abp2_rim_shots": [
+  "abp2_Rimshot": [
     "Oneshots/Rim_shots/RARE_ABP2_Rimshot_oneshot_cracks.wav",
     "Oneshots/Rim_shots/RARE_ABP2_Rimshot_oneshot_flow.wav",
     "Oneshots/Rim_shots/RARE_ABP2_Rimshot_oneshot_grow.wav",
     "Oneshots/Rim_shots/RARE_ABP2_Rimshot_oneshot_product.wav",
     "Oneshots/Rim_shots/RARE_ABP2_Rimshot_oneshot_work.wav"
   ],
-  "abp2_snare": [
+  "abp2_Snare": [
     "Oneshots/Snare/RARE_ABP2_Snare_oneshot_bomb_.wav",
     "Oneshots/Snare/RARE_ABP2_Snare_oneshot_bounce.wav",
     "Oneshots/Snare/RARE_ABP2_Snare_oneshot_lab.wav"
   ],
-  "abp2_snaps": [
+  "abp2_Snaps": [
     "Oneshots/Snaps/RARE_ABP2_Snaps_oneshot_fly.wav"
   ],
-  "abp2_agogo": [
+  "abp2_Agogo": [
     "Oneshots/Agogo/RARE_ABP2_Agogo_bell_oneshot_live.wav",
     "Oneshots/Agogo/RARE_ABP2_Agogo_bell_oneshot_sonic.wav"
   ],
-  "abp2_moroccan_bongo": [
+  "abp2_Moroccan_Bongo": [
     "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_bap.wav",
     "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_bet.wav",
     "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_boom.wav",
@@ -74,37 +76,37 @@
     "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_energy.wav",
     "Oneshots/Moroccan_Bongo/RARE_ABP2_Moroccan_Bongo_oneshot_killin.wav"
   ],
-  "abp2_tama": [
+  "abp2_Tama": [
     "Oneshots/Tama/RARE_ABP2_Tama_talkingdrum_oneshot_clang.wav",
     "Oneshots/Tama/RARE_ABP2_Tama_talkingdrum_oneshot_design.wav",
     "Oneshots/Tama/RARE_ABP2_Tama_talkingdrum_oneshot_play.wav",
     "Oneshots/Tama/RARE_ABP2_Tama_talkingdrum_oneshot_prospect.wav"
   ],
-  "abp2_seeds": [
+  "abp2_Seeds": [
     "Oneshots/Seeds/RARE_ABP2_Seeds_oneshot_audio.wav",
     "Oneshots/Seeds/RARE_ABP2_Seeds_oneshot_hitter.wav",
     "Oneshots/Seeds/RARE_ABP2_Seeds_oneshot_pro.wav",
     "Oneshots/Seeds/RARE_ABP2_Seeds_oneshot_slapper.wav",
     "Oneshots/Seeds/RARE_ABP2_Seeds_oneshot_smacker.wav"
   ],
-  "abp2_bassdrum": [
+  "abp2_Bassdrum": [
     "Oneshots/Bassdrum/RARE_ABP2_Surdo_bassdrum_oneshot_hits.wav",
     "Oneshots/Bassdrum/RARE_ABP2_Surdo_bassdrum_oneshot_organic.wav",
     "Oneshots/Bassdrum/RARE_ABP2_Surdo_bassdrum_oneshot_sound.wav",
     "Oneshots/Bassdrum/RARE_ABP2_Surdo_bassdrum_oneshot_vibe.wav"
   ],
-  "abp2_sticks": [
+  "abp2_Sticks": [
     "Oneshots/Sticks/RARE_ABP2_Sticks_oneshot_blare.wav",
     "Oneshots/Sticks/RARE_ABP2_Sticks_oneshot_cook.wav",
     "Oneshots/Sticks/RARE_ABP2_Sticks_oneshot_flavor.wav",
     "Oneshots/Sticks/RARE_ABP2_Sticks_oneshot_impression.wav"
   ],
-  "abp2_metal_percs": [
+  "abp2_Metal_Percs": [
     "Oneshots/Metal_Percs/RARE_ABP2_Metals_oneshot_FX.wav",
     "Oneshots/Metal_Percs/RARE_ABP2_Metals_oneshot_beautiful.wav",
     "Oneshots/Metal_Percs/RARE_ABP2_Metals_oneshot_snap.wav"
   ],
-  "abp2_djembe": [
+  "abp2_Djembe": [
     "Oneshots/Djembe/RARE_ABP2_Djembe_oneshot_beats.wav",
     "Oneshots/Djembe/RARE_ABP2_Djembe_oneshot_concept.wav",
     "Oneshots/Djembe/RARE_ABP2_Djembe_oneshot_musical.wav",
@@ -113,59 +115,84 @@
     "Oneshots/Djembe/RARE_ABP2_Djembe_oneshot_reverberate.wav",
     "Oneshots/Djembe/RARE_ABP2_Djembel_oneshot_vibes.wav"
   ],
-  "abp2_guiro": [
+  "abp2_Guiro": [
     "Oneshots/Guiro/RARE_ABP2_Guiro_metal_oneshot_create.wav",
     "Oneshots/Guiro/RARE_ABP2_Guiro_metal_oneshot_shape.wav"
   ],
-  "abp2_birds": [
+  "abp2_Birds": [
     "Oneshots/Birds/RARE_ABP2_Birdcall_oneshot_wavy.wav"
   ],
-  "abp2_kicks": [
+  "abp2_Kicks": [
     "Oneshots/Kicks/RARE_ABP2_Kick_drum_oneshot_spirit.wav",
     "Oneshots/Kicks/RARE_ABP2_Kick_drum_oneshot_stack.wav",
     "Oneshots/Kicks/RARE_ABP2_Kick_drum_oneshot_studio.wav"
   ],
-  "abp2_128": [
+
+  /* ------------------ LOOPS (split by instrument; BPM in key name) ------------------ */
+
+  "abp2_128_Bata_Mundi_FX": [
     "Loops/Bata_Mundi_FX/128/RARE_ABP2_128_BataMundi_FX_loop_batter.wav",
     "Loops/Bata_Mundi_FX/128/RARE_ABP2_128_BataMundi_FX_loop_collide.wav"
   ],
-  "abp2_88": [
+
+  "abp2_88_Bata_Mundi_FX": [
     "Loops/Bata_Mundi_FX/88/RARE_ABP2_88_BataMundi_FX_loop_hammer.wav",
     "Loops/Bata_Mundi_FX/88/RARE_ABP2_88_BataMundi_FX_loop_jolt.wav",
     "Loops/Bata_Mundi_FX/88/RARE_ABP2_88_BataMundi_FX_loop_shock.wav",
     "Loops/Bata_Mundi_FX/88/RARE_ABP2_88_BataMundi_FX_loop_strike.wav"
   ],
-  "abp2_94": [
-    "Loops/Bells/94/RARE_ABP2_94_Bells_loop_bash.wav",
+
+  "abp2_94_Bells": [
+    "Loops/Bells/94/RARE_ABP2_94_Bells_loop_bash.wav"
+  ],
+  "abp2_94_Bongo": [
     "Loops/Bongo/94/RARE_ABP2_94_Bongo_loop_bag.wav",
     "Loops/Bongo/94/RARE_ABP2_94_Bongo_loop_maul.wav",
     "Loops/Bongo/94/RARE_ABP2_94_Bongo_loop_pummel.wav",
-    "Loops/Bongo/94/RARE_ABP2_94_Bongo_loop_slam.wav",
-    "Loops/Chimes/94/RARE_ABP2_94_Chimes_loop_drip.wav",
+    "Loops/Bongo/94/RARE_ABP2_94_Bongo_loop_slam.wav"
+  ],
+  "abp2_94_Chimes": [
+    "Loops/Chimes/94/RARE_ABP2_94_Chimes_loop_drip.wav"
+  ],
+  "abp2_94_Seeds": [
     "Loops/Seeds/94/RARE_ABP2_94_Seeds_loop_hitter.wav",
     "Loops/Seeds/94/RARE_ABP2_94_Seeds_loop_slapper.wav",
-    "Loops/Seeds/94/RARE_ABP2_94_Seeds_loop_smacker.wav",
+    "Loops/Seeds/94/RARE_ABP2_94_Seeds_loop_smacker.wav"
+  ],
+  "abp2_94_Shaker": [
     "Loops/Shaker/94/RARE_ABP2_94_Shaker_loop_auditory.wav",
-    "Loops/Shaker/94/RARE_ABP2_94_Shaker_loop_recorded.wav",
+    "Loops/Shaker/94/RARE_ABP2_94_Shaker_loop_recorded.wav"
+  ],
+  "abp2_94_Sticks": [
     "Loops/Sticks/94/RARE_ABP2_94_Sticks_loop_go.wav",
     "Loops/Sticks/94/RARE_ABP2_94_Sticks_loop_paint.wav",
-    "Loops/Sticks/94/RARE_ABP2_94_Sticks_loop_puzzle.wav",
+    "Loops/Sticks/94/RARE_ABP2_94_Sticks_loop_puzzle.wav"
+  ],
+  "abp2_94_Guiro": [
     "Loops/Guiro/RARE_ABP2_94_Guiro_loop_reverberate.wav",
     "Loops/Guiro/RARE_ABP2_94_Guiro_loop_vibes.wav"
   ],
-  "abp2_108": [
+
+  "abp2_108_Bells": [
     "Loops/Bells/108/RARE_ABP2_108_Bells_loop_attack.wav",
     "Loops/Bells/108/RARE_ABP2_108_Bells_loop_bump.wav",
-    "Loops/Bells/108/RARE_ABP2_108_Bells_loop_flay.wav",
-    "Loops/Seeds/108/RARE_ABP2_108_Seeds_loop_pro.wav",
+    "Loops/Bells/108/RARE_ABP2_108_Bells_loop_flay.wav"
+  ],
+  "abp2_108_Seeds": [
+    "Loops/Seeds/108/RARE_ABP2_108_Seeds_loop_pro.wav"
+  ],
+  "abp2_108_Sticks": [
     "Loops/Sticks/108/RARE_ABP2_108_Sticks_loop_expert.wav",
     "Loops/Sticks/108/RARE_ABP2_108_Sticks_loop_flair.wav",
     "Loops/Sticks/108/RARE_ABP2_108_Sticks_loop_talent.wav"
   ],
-  "abp2_120": [
+
+  "abp2_120_Moroccan_Bongo": [
     "Loops/Moroccan_Bongo/120/RARE_ABP2_120_Moroccan_Bongo_loop_bet.wav",
     "Loops/Moroccan_Bongo/120/RARE_ABP2_120_Moroccan_Bongo_loop_energy.wav",
-    "Loops/Moroccan_Bongo/120/RARE_ABP2_120_Moroccan_Bongo_loop_killin.wav",
+    "Loops/Moroccan_Bongo/120/RARE_ABP2_120_Moroccan_Bongo_loop_killin.wav"
+  ],
+  "abp2_120_Shaker": [
     "Loops/Shaker/120/RARE_ABP2_120_Shaker_loop_blare.wav",
     "Loops/Shaker/120/RARE_ABP2_120_Shaker_loop_bounce.wav",
     "Loops/Shaker/120/RARE_ABP2_120_Shaker_loop_cook.wav",
@@ -173,149 +200,205 @@
     "Loops/Shaker/120/RARE_ABP2_120_Shaker_loop_impression.wav",
     "Loops/Shaker/120/RARE_ABP2_120_Shaker_loop_lab.wav"
   ],
-  "abp2_96": [
+
+  "abp2_96_Djembe": [
     "Loops/Djembe/96/RARE_ABP2_96_Djembe_loop_flow.wav",
     "Loops/Djembe/96/RARE_ABP2_96_Djembe_loop_soul.wav",
     "Loops/Djembe/96/RARE_ABP2_96_Djembe_loop_sound.wav",
     "Loops/Djembe/96/RARE_ABP2_96_Djembe_loop_spirit.wav",
-    "Loops/Djembe/96/RARE_ABP2_96_Djembe_loop_vibration.wav",
+    "Loops/Djembe/96/RARE_ABP2_96_Djembe_loop_vibration.wav"
+  ],
+  "abp2_96_Shaker": [
     "Loops/Shaker/96/RARE_ABP2_96_Shaker_loop_bomb_.wav",
     "Loops/Shaker/96/RARE_ABP2_96_Shaker_loop_fly.wav",
     "Loops/Shaker/96/RARE_ABP2_96_Shaker_loop_resonate.wav",
-    "Loops/Shaker/96/RARE_ABP2_96_Shaker_loop_theme.wav",
+    "Loops/Shaker/96/RARE_ABP2_96_Shaker_loop_theme.wav"
+  ],
+  "abp2_96_Tambourine": [
     "Loops/Tambourine/96/RARE_ABP2_96_Tambourine_loop_bang.wav",
     "Loops/Tambourine/96/RARE_ABP2_96_Tambourine_loop_hammer.wav",
     "Loops/Tambourine/96/RARE_ABP2_96_Tambourine_loop_strike.wav"
   ],
-  "abp2_104": [
+
+  "abp2_104_Bongo": [
     "Loops/Bongo/104/RARE_ABP2_104_Bongo_loop_clip.wav",
     "Loops/Bongo/104/RARE_ABP2_104_Bongo_loop_cuff.wav",
     "Loops/Bongo/104/RARE_ABP2_104_Bongo_loop_thud.wav",
     "Loops/Bongo/104/RARE_ABP2_104_Bongo_loop_thump.wav"
   ],
-  "abp2_162": [
+
+  "abp2_162_Bongo": [
     "Loops/Bongo/162/RARE_ABP2_162_Bongo_loop_drop.wav",
     "Loops/Bongo/162/RARE_ABP2_162_Bongo_loop_power.wav",
     "Loops/Bongo/162/RARE_ABP2_162_Bongo_loop_smart.wav"
   ],
-  "abp2_124": [
+
+  "abp2_124_Bongo": [
     "Loops/Bongo/124/RARE_ABP2_124_Bongo_loop_basher.wav",
     "Loops/Bongo/124/RARE_ABP2_124_Bongo_loop_brick.wav",
     "Loops/Bongo/124/RARE_ABP2_124_Bongo_loop_strapped.wav",
-    "Loops/Bongo/124/RARE_ABP2_124_Bongo_loop_wham.wav",
+    "Loops/Bongo/124/RARE_ABP2_124_Bongo_loop_wham.wav"
+  ],
+  "abp2_124_Djembe": [
     "Loops/Djembe/124/RARE_ABP2_124_Djembe_loop_line.wav",
     "Loops/Djembe/124/RARE_ABP2_124_Djembe_loop_part.wav",
     "Loops/Djembe/124/RARE_ABP2_124_Djembe_loop_phrase.wav",
     "Loops/Djembe/124/RARE_ABP2_124_Djembe_loop_theme.wav"
   ],
-  "abp2_142": [
+
+  "abp2_142_Conga": [
     "Loops/Conga/142/RARE_ABP2_142_Conga_loop_groove.wav",
     "Loops/Conga/142/RARE_ABP2_142_Conga_loop_rhythm.wav"
   ],
-  "abp2_100": [
+
+  "abp2_100_Bassdrum": [
     "Loops/Bassdrum/100/RARE_ABP2_100_Bassdrum_surdo_loop_knock.wav",
     "Loops/Bassdrum/100/RARE_ABP2_100_Bassdrum_surdo_loop_rap.wav",
-    "Loops/Bassdrum/100/RARE_ABP2_100_Bassdrum_surdo_loop_thump.wav",
+    "Loops/Bassdrum/100/RARE_ABP2_100_Bassdrum_surdo_loop_thump.wav"
+  ],
+  "abp2_100_Conga": [
     "Loops/Conga/100/RARE_ABP2_100_Conga_loop_hard.wav",
     "Loops/Conga/100/RARE_ABP2_100_Conga_loop_piece.wav",
     "Loops/Conga/100/RARE_ABP2_100_Conga_loop_puzzlepiece.wav",
     "Loops/Conga/100/RARE_ABP2_100_Conga_loop_slap.wav",
-    "Loops/Conga/100/RARE_ABP2_100_Conga_loop_smack.wav",
-    "Loops/Moroccan_Bongo/100/RARE_ABP2_100_Moroccan_Bongo_loop_effect.wav",
+    "Loops/Conga/100/RARE_ABP2_100_Conga_loop_smack.wav"
+  ],
+  "abp2_100_Moroccan_Bongo": [
+    "Loops/Moroccan_Bongo/100/RARE_ABP2_100_Moroccan_Bongo_loop_effect.wav"
+  ],
+  "abp2_100_Sticks": [
     "Loops/Sticks/100/RARE_ABP2_100_Sticks_loop_craft.wav",
-    "Loops/Sticks/100/RARE_ABP2_100_Sticks_loop_gift.wav",
+    "Loops/Sticks/100/RARE_ABP2_100_Sticks_loop_gift.wav"
+  ],
+  "abp2_100_Tama": [
     "Loops/Tama/100/RARE_ABP2_100_Tama_Talkingdrum_loop_pound.wav",
     "Loops/Tama/100/RARE_ABP2_100_Tama_Talkingdrum_loop_thump.wav"
   ],
-  "abp2_90": [
+
+  "abp2_90_Bassdrum": [
     "Loops/Bassdrum/90/RARE_ABP2_90_Bassdrum_surdo_loop_expert.wav",
     "Loops/Bassdrum/90/RARE_ABP2_90_Bassdrum_surdo_loop_flair.wav",
     "Loops/Bassdrum/90/RARE_ABP2_90_Bassdrum_surdo_loop_street.wav",
-    "Loops/Bassdrum/90/RARE_ABP2_90_Bassdrum_surdo_loop_talent.wav",
+    "Loops/Bassdrum/90/RARE_ABP2_90_Bassdrum_surdo_loop_talent.wav"
+  ],
+  "abp2_90_Conga": [
     "Loops/Conga/90/RARE_ABP2_90_Conga_loop_hits.wav",
     "Loops/Conga/90/RARE_ABP2_90_Conga_loop_punch.wav",
     "Loops/Conga/90/RARE_ABP2_90_Conga_loop_sound.wav",
-    "Loops/Conga/90/RARE_ABP2_90_Conga_loop_vibe.wav",
+    "Loops/Conga/90/RARE_ABP2_90_Conga_loop_vibe.wav"
+  ],
+  "abp2_90_Metal_Percs": [
     "Loops/Metal_Percs/90/RARE_ABP2_90_Metals_loop_concept_.wav",
     "Loops/Metal_Percs/90/RARE_ABP2_90_Metals_loop_create.wav",
     "Loops/Metal_Percs/90/RARE_ABP2_90_Metals_loop_easy.wav",
     "Loops/Metal_Percs/90/RARE_ABP2_90_Metals_loop_lightbulb.wav",
-    "Loops/Metal_Percs/90/RARE_ABP2_90_Metals_loop_musik.wav",
+    "Loops/Metal_Percs/90/RARE_ABP2_90_Metals_loop_musik.wav"
+  ],
+  "abp2_90_Moroccan_Bongo": [
     "Loops/Moroccan_Bongo/90/RARE_ABP2_90_Moroccan_Bongo_loop_FX.wav",
     "Loops/Moroccan_Bongo/90/RARE_ABP2_90_Moroccan_Bongo_loop_beautiful.wav",
-    "Loops/Moroccan_Bongo/90/RARE_ABP2_90_Moroccan_Bongo_loop_snap.wav",
+    "Loops/Moroccan_Bongo/90/RARE_ABP2_90_Moroccan_Bongo_loop_snap.wav"
+  ],
+  "abp2_90_Snare": [
     "Loops/Snare/90/RARE_ABP2_90_Snare_loop_clang.wav",
     "Loops/Snare/90/RARE_ABP2_90_Snare_loop_design.wav",
     "Loops/Snare/90/RARE_ABP2_90_Snare_loop_play.wav",
     "Loops/Snare/90/RARE_ABP2_90_Snare_loop_point.wav",
     "Loops/Snare/90/RARE_ABP2_90_Snare_loop_prospect.wav"
   ],
-  "abp2_76": [
+
+  "abp2_76_Conga": [
     "Loops/Conga/76/RARE_ABP2_76_Conga_loop_live.wav",
     "Loops/Conga/76/RARE_ABP2_76_Conga_loop_organic.wav",
     "Loops/Conga/76/RARE_ABP2_76_Conga_loop_sonic.wav"
   ],
-  "abp2_122": [
+
+  "abp2_122_Conga": [
     "Loops/Conga/122/RARE_ABP2_122_Conga_loop_acoustic.wav",
     "Loops/Conga/122/RARE_ABP2_122_Conga_loop_cool.wav",
     "Loops/Conga/122/RARE_ABP2_122_Conga_loop_thought.wav",
-    "Loops/Conga/122/RARE_ABP2_122_Conga_loop_wavy.wav",
+    "Loops/Conga/122/RARE_ABP2_122_Conga_loop_wavy.wav"
+  ],
+  "abp2_122_Seeds": [
     "Loops/Seeds/122/RARE_ABP2_122_Seeds_loop_audio.wav",
     "Loops/Seeds/122/RARE_ABP2_122_Seeds_loop_blare.wav",
     "Loops/Seeds/122/RARE_ABP2_122_Seeds_loop_blast.wav",
     "Loops/Seeds/122/RARE_ABP2_122_Seeds_loop_instrument.wav"
   ],
-  "abp2_116": [
+
+  "abp2_116_Djembe": [
     "Loops/Djembe/116/RARE_ABP2_116_Djembe_loop_fire.wav",
     "Loops/Djembe/116/RARE_ABP2_116_Djembe_loop_idea.wav",
     "Loops/Djembe/116/RARE_ABP2_116_Djembe_loop_note.wav",
-    "Loops/Djembe/116/RARE_ABP2_116_Djembe_loop_tone.wav",
+    "Loops/Djembe/116/RARE_ABP2_116_Djembe_loop_tone.wav"
+  ],
+  "abp2_116_Snare": [
     "Loops/Snare/116/RARE_ABP2_116_Snare_loop_feel.wav",
     "Loops/Snare/116/RARE_ABP2_116_Snare_loop_object.wav",
     "Loops/Snare/116/RARE_ABP2_116_Snare_loop_theory.wav"
   ],
-  "abp2_136": [
+
+  "abp2_136_Agogo": [
     "Loops/Agogo/136/RARE_ABP2_136_Agogo_bell_loop_paint.wav",
-    "Loops/Agogo/136/RARE_ABP2_136_Agogo_bell_loop_puzzle.wav",
-    "Loops/Chimes/136/RARE_ABP2_136_Chimes_loop_ding.wav",
+    "Loops/Agogo/136/RARE_ABP2_136_Agogo_bell_loop_puzzle.wav"
+  ],
+  "abp2_136_Chimes": [
+    "Loops/Chimes/136/RARE_ABP2_136_Chimes_loop_ding.wav"
+  ],
+  "abp2_136_Metal_Percs": [
     "Loops/Metal_Percs/136/RARE_ABP2_136_Metals_loop_stack.wav",
     "Loops/Metal_Percs/136/RARE_ABP2_136_Metals_loop_studio.wav"
   ],
-  "abp2_154": [
+
+  "abp2_154_Moroccan_Bongo": [
     "Loops/Moroccan_Bongo/154/RARE_ABP2_154_Moroccan_Bongo_loop_bap.wav",
     "Loops/Moroccan_Bongo/154/RARE_ABP2_154_Moroccan_Bongo_loop_boom.wav",
     "Loops/Moroccan_Bongo/154/RARE_ABP2_154_Moroccan_Bongo_loop_grow.wav"
   ],
-  "abp2_74": [
+
+  "abp2_74_Tama": [
     "Loops/Tama/74/RARE_ABP2_74_Tama_Talkingdrum_loop_knock.wav",
     "Loops/Tama/74/RARE_ABP2_74_Tama_Talkingdrum_loop_rap.wav"
   ],
-  "abp2_110": [
+
+  "abp2_110_Metal_Percs": [
     "Loops/Metal_Percs/110/RARE_ABP2_110_Metals_loop_shape.wav",
-    "Loops/Metal_Percs/110/RARE_ABP2_110_Metals_loop_spirit.wav",
+    "Loops/Metal_Percs/110/RARE_ABP2_110_Metals_loop_spirit.wav"
+  ],
+  "abp2_110_Tambourine": [
     "Loops/Tambourine/110/RARE_ABP2_110_Tambourine_loop_jolt.wav",
     "Loops/Tambourine/110/RARE_ABP2_110_Tambourine_loop_shock.wav"
   ],
-  "abp2_92": [
+
+  "abp2_92_Seeds": [
     "Loops/Seeds/92/RARE_ABP2_92_Seeds_loop_cracks.wav",
     "Loops/Seeds/92/RARE_ABP2_92_Seeds_loop_flow.wav",
     "Loops/Seeds/92/RARE_ABP2_92_Seeds_loop_product.wav",
-    "Loops/Seeds/92/RARE_ABP2_92_Seeds_loop_work.wav",
+    "Loops/Seeds/92/RARE_ABP2_92_Seeds_loop_work.wav"
+  ],
+  "abp2_92_Doorkeys": [
     "Loops/Doorkeys/RARE_ABP2_92_Doorkeys_loop_beats.wav",
     "Loops/Doorkeys/RARE_ABP2_92_Doorkeys_loop_concept.wav",
     "Loops/Doorkeys/RARE_ABP2_92_Doorkeys_loop_musical.wav"
   ],
-  "abp2_80": [
+
+  "abp2_80_Bassdrum": [
     "Loops/Bassdrum/80/RARE_ABP2_80_Bassdrum_surdo_loop_craft.wav",
-    "Loops/Bassdrum/80/RARE_ABP2_80_Bassdrum_surdo_loop_gift.wav",
+    "Loops/Bassdrum/80/RARE_ABP2_80_Bassdrum_surdo_loop_gift.wav"
+  ],
+  "abp2_80_Sticks": [
     "Loops/Sticks/80/RARE_ABP2_80_Sticks_loop_sense.wav"
   ],
-  "abp2_130": [
+
+  "abp2_130_Bassdrum": [
     "Loops/Bassdrum/130/RARE_ABP2_130_Bassdrum_surdo_loop_bang.wav",
-    "Loops/Bassdrum/130/RARE_ABP2_130_Bassdrum_surdo_loop_pound.wav",
+    "Loops/Bassdrum/130/RARE_ABP2_130_Bassdrum_surdo_loop_pound.wav"
+  ],
+  "abp2_130_Sticks": [
     "Loops/Sticks/130/RARE_ABP2_130_Sticks_loop_street.wav"
   ],
-  "abp2_85": [
+
+  "abp2_85_Djembe": [
     "Loops/Djembe/85/RARE_ABP2_85_Djembe_loop_color.wav",
     "Loops/Djembe/85/RARE_ABP2_85_Djembe_loop_mood.wav",
     "Loops/Djembe/85/RARE_ABP2_85_Djembe_loop_slaps.wav"
