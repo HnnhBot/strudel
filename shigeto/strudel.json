@@ -1,0 +1,252 @@
+{
+  "_base": "https://strudel-samples.b-cdn.net/Shigeto%20Sample%20Pack/",
+  "shigeto_120_ab": [
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Horizon_Filter_120_G#_I.wav",
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Horizon_Filter_120_G#_II.wav",
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Horizon_Loop_120_G#.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__Melodies/繁登_Moog_Melody_FelixHi_120_G#.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__Melodies/繁登_Moog_Melody_FelixLo_120_G#.wav"
+  ],
+  "shigeto_120_am": [
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Bell_Loop_120_Am.wav"
+  ],
+  "shigeto_120_bm": [
+    "SHIGETO_labeled_processed/繁登__Kalimba/繁登__Loops_/繁登_Kalimba_Loop_CallerIDNervous_120_Bm.wav",
+    "SHIGETO_labeled_processed/繁登__Kalimba/繁登__Loops_/繁登_Kalimba_Loop_DecisionTime_120_Bm.wav",
+    "SHIGETO_labeled_processed/繁登__Kalimba/繁登__Loops_/繁登_Kalimba_Loop_Quest_120_Bm.wav",
+    "SHIGETO_labeled_processed/繁登__Kalimba/繁登__Loops_/繁登_Kalimba_Loop_SoulSearching_120_Bm.wav"
+  ],
+  "shigeto_120_eb": [
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__Melodies/繁登_Moog_Melody_Nomad_120_D#.wav"
+  ],
+  "shigeto_120_ebm": [
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Field_Filter_120_D#m_I.wav",
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Field_Filter_120_D#m_II.wav"
+  ],
+  "shigeto_120_em": [
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Bell_Loop_120_Em_I.wav",
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Bell_Loop_120_Em_II.wav",
+    "SHIGETO_labeled_processed/繁登__Kalimba/繁登__Loops_/繁登_Kalimba_Loop_Deadline_120_Em.wav",
+    "SHIGETO_labeled_processed/繁登__Kalimba/繁登__Loops_/繁登_Kalimba_Loop_LeaveMeHanging_120_Em.wav",
+    "SHIGETO_labeled_processed/繁登__Kalimba/繁登__Loops_/繁登_Kalimba_Loop_TextMeBack_120_Em.wav",
+    "SHIGETO_labeled_processed/繁登__Kalimba/繁登__Loops_/繁登_Kalimba_Loop_UrgentMessage_120_Em.wav"
+  ],
+  "shigeto_120_g": [
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__Melodies/繁登_Moog_Melody_ALS_120_G.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__Melodies/繁登_Moog_Melody_Clownin_120_G.wav"
+  ],
+  "shigeto_120_gm": [
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Field_Filter_120_Gm_I.wav",
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Field_Filter_120_Gm_II.wav",
+    "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Loops/繁登_Field_Loop_120_Gm_III.wav"
+  ],
+  "shigeto_breaks": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_BelleIsle_313.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_RYdn_313.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_fuckMonday_313.wav"
+  ],
+  "shigeto_breaks_100": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_DeRt_100.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_DeRt_100_II.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Lobounce_100.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Lobounce_100_II.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Pckup_100_I.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Pckup_100_II.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_SNPback_100_I.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_SNPback_100_II.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Thelight_100_I.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Thelight_100_II.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Whatupdoe_100_I.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Whatupdoe_100_II.wav"
+  ],
+  "shigeto_breaks_120": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Pddle_120.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_SlowRoll_120.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Steppin_120.wav"
+  ],
+  "shigeto_breaks_140": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_BkWoodBogy_140.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Reppin_140.wav"
+  ],
+  "shigeto_breaks_80": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_G8SMSH_80.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_PullUP_80.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_SQuashed_80.wav"
+  ],
+  "shigeto_breaks_90": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Catch1_90.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Dabrye_90.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_InLuV_90.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Lazy_90.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Breaks/繁登_Drum_Loop_Onit_90.wav"
+  ],
+  "shigeto_chord": {
+    "ab4": [
+      "SHIGETO_labeled_processed/繁登__electric_piano/繁登__Chords/繁登_electric_piano_Chord_G#.wav"
+    ],
+    "bb4": [
+      "SHIGETO_labeled_processed/繁登__electric_piano/繁登__Chords/繁登_electric_piano_Chord_A#m.wav"
+    ],
+    "c4": [
+      "SHIGETO_labeled_processed/繁登__electric_piano/繁登__Chords/繁登_electric_piano_Chord_Cm_I.wav",
+      "SHIGETO_labeled_processed/繁登__electric_piano/繁登__Chords/繁登_electric_piano_Chord_Cm_II.wav",
+      "SHIGETO_labeled_processed/繁登__electric_piano/繁登__Chords/繁登_electric_piano_Chord_Cm_III.wav"
+    ],
+    "db4": [
+      "SHIGETO_labeled_processed/繁登__electric_piano/繁登__Chords/繁登_electric_piano_Chord_C#.wav",
+      "SHIGETO_labeled_processed/繁登__electric_piano/繁登__Chords/繁登_electric_piano_Chord_C#m.wav"
+    ],
+    "f4": [
+      "SHIGETO_labeled_processed/繁登__electric_piano/繁登__Chords/繁登_electric_piano_Chord_Fm_I.wav",
+      "SHIGETO_labeled_processed/繁登__electric_piano/繁登__Chords/繁登_electric_piano_Chord_Fm_II.wav"
+    ],
+    "g4": [
+      "SHIGETO_labeled_processed/繁登__electric_piano/繁登__Chords/繁登_electric_piano_Chord_Gm.wav"
+    ]
+  },
+  "shigeto_clap": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Clap/繁登_Get_Panned_Clap.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Clap/繁登_It_Panned_Clap.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Clap/繁登_Poppin_Panned_Clap.wav"
+  ],
+  "shigeto_claps_120": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Claps/繁登_Clap_Loop_Panned_120_I.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Claps/繁登_Clap_Loop_Panned_120_II.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Claps/繁登_Clap_Loop_Panned_120_III.wav"
+  ],
+  "shigeto_custom_sound": {
+    "a4": [
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Bell_Pad_Am.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Field_Pad_A.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_FireBell_Pad_Am_I.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_FireBell_Pad_Am_II.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_FireBell_Pad_Am_III.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Portal_Pad_Am_I.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Portal_Pad_Am_II.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Portal_Pad_Am_III.wav"
+    ],
+    "ab4": [
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Horizon_Pad_G#.wav"
+    ],
+    "d4": [
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Sad_Pad_D_I.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Sad_Pad_D_II.wav"
+    ],
+    "e4": [
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Field_Pad_Em.wav"
+    ],
+    "f#4": [
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Field_Pad_F#m.wav"
+    ],
+    "f4": [
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Field_Pad_Fm.wav"
+    ],
+    "g4": [
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__One_Shots/繁登_Field_Pad_Gm.wav"
+    ]
+  },
+  "shigeto_found_sound": [
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_A2_ChimeSwellEchoChamber.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_2003FreeJam_w_Ferren.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_2003FreeJam_w_Ferren_blowin.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_CursedCathedralChior.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_DuncanBassBomb.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_NYC_L_TrainSub_Fill.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_NYC_L_TrainSub_Riddum.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_NYC_L_TrainSub_Riff.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_NYC_L_TrainSub_Rim.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_NYC_L_TrainSub_Roll.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_RitualBoneChatter.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_ScioChurchKeyScrape.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_SpringinProvence.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_SubAudioPulsesGarden.wav",
+      "SHIGETO_labeled_processed/繁登__Custom_Sounds/繁登__Found_Sounds/繁登_W_Grand_Blvd_Birds.wav"
+  ],
+  "shigeto_hat": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Hats/繁登_Chain_Hat.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Hats/繁登_CutOff_OpenHat.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Hats/繁登_GangShffL_Hat.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Hats/繁登_JailBar_Hat.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Hats/繁登_Wyde_OpenHat.wav"
+  ],
+  "shigeto_kalimba": {
+    "b4": [
+      "SHIGETO_labeled_processed/繁登__Kalimba/繁登__One_Shots/繁登_Kalimba_Note_B.wav",
+      "SHIGETO_labeled_processed/繁登__Kalimba/繁登__One_Shots/繁登_Kalimba_RNDM_Bm.wav"
+    ],
+    "d4": [
+      "SHIGETO_labeled_processed/繁登__Kalimba/繁登__One_Shots/繁登_Kalimba_Note_D.wav"
+    ],
+    "db4": [
+      "SHIGETO_labeled_processed/繁登__Kalimba/繁登__One_Shots/繁登_Kalimba_Note_C#.wav"
+    ],
+    "e4": [
+      "SHIGETO_labeled_processed/繁登__Kalimba/繁登__One_Shots/繁登_Kalimba_Note_E.wav"
+    ]
+  },
+  "shigeto_kick": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Kick/繁登_Bagley_Kick.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Kick/繁登_BuckShot_Kick.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Kick/繁登_Lodge_Kick.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Kick/繁登_OHat_Kick.wav"
+  ],
+  "shigeto_long_tone": {
+    "a4": [
+      "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__Long_Tones/繁登_Moog_Tone_PitchLFO_A.wav"
+    ],
+    "bb4": [
+      "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__Long_Tones/繁登_Moog_Tone_PitchLFO_A#.wav"
+    ],
+    "c4": [
+      "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__Long_Tones/繁登_Moog_Tone_PitchLFO_C.wav"
+    ],
+    "g4": [
+      "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__Long_Tones/繁登_Moog_Tone_PitchLFO_G.wav"
+    ]
+  },
+  "shigeto_micro_moog": [
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_Abduction.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_AlienGunSilencer.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_AllMyGigabitz.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_BrokenAI_120.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_DumbLFO.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_Dzaoi.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_FKU2.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_Incoming.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_IncomingII.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_JuicyRip.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_Levitate.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_NoAccess.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_PanicAttack.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_Pfah.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_SteamStab.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_VeryRareBird.wav",
+    "SHIGETO_labeled_processed/繁登__Micro_Moog/繁登__FX/繁登_FX_Moog_ZRON_120.wav"
+  ],
+  "shigeto_shakers_100": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Shakers/繁登_Shaker_Loop_Dirt_100.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Shakers/繁登_Shaker_Loop_Lobounce_100.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Shakers/繁登_Shaker_Loop_OG_100.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Shakers/繁登_Shaker_Loop_Pickup_100.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Shakers/繁登_Shaker_Loop_Snapback_100.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Shakers/繁登_Shaker_Loop_Thelight_100.wav"
+  ],
+  "shigeto_shakers_120": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Shakers/繁登_Shaker_Loop_HalfTime_120.wav"
+  ],
+  "shigeto_snare": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Snare/繁登_Conant_Snare.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Snare/繁登_Gratiot_Snare.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Snare/繁登_HitALik_Snare.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Snare/繁登_Koltay_Snare.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__One_Shots/繁登__Snare/繁登_Vernors_Snare.wav"
+  ],
+  "shigeto_woodblock_100": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Woodblock/繁登_Woodblck_Loop_Lobounce_100.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Woodblock/繁登_Woodblck_Loop_Snapback_100.wav",
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Woodblock/繁登_Woodblck_Loop_Thelight_100.wav"
+  ],
+  "shigeto_woodblock_120": [
+    "SHIGETO_labeled_processed/繁登__Drums/繁登__Loops/繁登__Woodblock/繁登_Woodblck_Loop_HalfTime_120.wav"
+  ]
+}
